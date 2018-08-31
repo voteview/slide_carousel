@@ -1,0 +1,143 @@
+[
+	{
+		"image": "history.jpg", 
+		"title": "Geography: District History", 
+		"caption": "Learn the story of a place through the people that represented it through history", 
+		"link": "/district",
+		"mask": "light",
+		"weight": 10
+	},
+	{
+		"image": "data.png", 
+		"title": "Download NOMINATE data", 
+		"caption": "Are you an academic or journalist interested in using NOMINATE data? Click here to download the data and learn how to use it.", 
+		"link": "/data",
+		"mask": "medium",
+		"weight": 10
+	},
+	{
+		"image": "puck_cartoon.jpg", 
+		"title": "Political Parties", 
+		"caption": "Explore current and historical political parties, map party control, and learn about polarization.", 
+		"link": "/parties/all",
+		"weight": 10
+	},
+	{
+		"image": "115th_senate.jpg", 
+		"title": "The 115th Congress: Senate", 
+		"caption": "Visualize the 115th Senate and its members, compare it with the past", 
+		"link": "/congress/senate",
+		"mask": "light",
+		"weight": 5
+	},
+	{
+		"image": "115th_house.jpg", 
+		"title": "The 115th Congress: House of Representatives", 
+		"caption": "Visualize the 115th House of Representatives and its members, compare it with the past", 
+		"link": "/congress/house",
+		"weight": 5
+	},
+	{
+		"image": "lbj.jpg",
+		"title": "Lyndon B. Johnson: The Master of the Senate",
+		"caption": "Learn about LBJ's career in the Senate and explore key votes",
+		"link": "/person/4979/lyndon-baines-johnson",
+		"weight": 1
+	},
+	{
+		"image": "roosevelt_muir.jpg",
+		"title": "Theodore Roosevelt: For A Square Deal",
+		"caption": "See Teddy's positions on key rollcalls in congress",
+		"link": "/person/99893/theodore-roosevelt",
+		"weight": 1
+	},
+	{
+		"image": "whig.jpg",
+		"title": "The Whig Party",
+		"caption": "Learn about the historical party of Henry Clay and Millard Fillmore",
+		"link": "/parties/29/whig-party",
+		"mask": "light",
+		"weight": 1
+	},
+	{
+		"image": "felton.jpg",
+		"title": "Rebecca Latimer Felton",
+		"caption": "Felton became the first woman to serve in the Senate, for only 24 hours.",
+		"link": "/person/3099/rebecca-latimer-felton",
+		"weight": 2
+	},
+	{
+		"image": "hattie.jpg",
+		"title": "Hattie Wyatt Caraway",
+		"caption": "Explore the votes of Hattie Wyatt Caraway, the first woman elected to the Senate",
+		"link": "/person/1497/hattie-wyatt-caraway",
+		"weight": 2
+	},
+	{
+		"image": "1st_congress.jpg",
+		"title": "The First Congress",
+		"caption": "Learn about the factions and members of the first United States Congress",
+		"link": "/congress/house/1/",
+		"weight": 1 
+	},
+	{
+		"image": "nominate_tabular.png",
+		"title": "Tabular Data: The Bare Facts",
+		"caption": "Use the 'tabular view' to quickly check NOMINATE scores",
+		"link": "/congress/senate/tabular",
+		"mask": "strong",
+		"weight": 4
+	},
+	{
+		"image": "alaska.jpg",
+		"title": "Alaska",
+		"caption": "Rep. Don Young has represented Alaska since 1973. Do you know who served before him?",
+		"link": "/district/anchorage, ak 99501",
+		"weight": 2
+	},
+	{
+		"image": "patriot_act.jpg",
+		"title": "Key Votes: USA PATRIOT Act",
+		"caption": "Map, visualize, and explore the passage of the USA PATRIOT Act in October 2001",
+		"link": "/rollcall/RH1070394",
+		"weight": 4
+	},
+	{
+		"image": "devos.jpg",
+		"title": "Key Votes: Confirming Betsy DeVos",
+		"caption": "Visualize the first time in history a cabinet nominee's confirmation ended in a tie.",
+		"link": "/rollcall/RS1150054",
+		"weight": 4
+	},
+	{
+		"image": "vote18.jpg",
+		"title": "Key Votes: The 26th Amendment",
+		"caption": "The U.S. Senate unanimously voted to pass what would become the 26th Amendment, lowering the voting age to 18.",
+		"link": "/rollcall/RS0920012",
+		"mask": "light",
+		"weight": 4
+	},
+	{
+		"image": "lend_lease.jpg",
+		"title": "Key Votes: Lend-Lease",
+		"caption": "'Lend-Lease' saw the United States send military hardware, oil, and food to foreign allies during World War 2",
+		"link": "/rollcall/RH0770006",
+		"weight": 4
+	},
+	{
+		"image": "gulf_of_tonkin.jpg",
+		"title": "Key Votes: Gulf of Tonkin Resolution",
+		"caption": "After reports that the USS Maddox had been attacked by North Vietnamese naval vessels, the U.S. House of Representatives voted 422-1 to authorize military action in Vietnam. Eugene Siler was the loan 'Nay' vote.",
+		"link": "/rollcall/RH0880197",
+		"mask": "medium",
+		"weight": 4
+	},
+	{
+		"image": "bork.jpg",
+		"title": "Key Votes: Robert Bork, Rejected",
+		"caption": "President Reagan's nominee for Associate Justice of the Supreme Court, Robert Bork, found his nomination defeated in the Senate. His name subsequently became a verb, meaning 'to attack or defeat a nominee unfairly through an organized campaign of harsh public criticism or vilification'.",
+		"link": "/rollcall/RS1000348",
+		"weight": 4
+	}
+]
+
