@@ -1,5 +1,12 @@
 [
 	{
+		"image": "rockefeller.jpg",
+		"title": "Key Votes: The Confirmation of Nelson Rockefeller as Vice President",
+		"caption": "Although confirmed 92-7, Rockefeller did not make an impact as Vice President and subsequently withdrew from President Ford's re-election ticket.",
+		"link": "/rollcall/RS0931092",
+		"weight": 4
+	},
+	{
 		"image": "ford_confirmation.jpg",
 		"title": "Key Votes: The Confirmation of Gerald Ford as Vice President",
 		"caption": "By a vote of 96-3, Ford was easily confirmed. Click to learn who the three dissenting votes were."
