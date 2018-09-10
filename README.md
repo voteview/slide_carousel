@@ -22,6 +22,7 @@ Images can be any web-friendly format. Size should be very wide (1000+ px) and 3
 ```
 
 * *image*: Filename of the image for the slide.
+* *video*: If given, an MP4 video rather than an image for the slide.
 * *title*: Title for slide
 * *caption*: Caption for slide. Text automatically wraps, but HTML is supported.
 * *weight*: How likely the slide is to be sampled (higher weights are higher)
