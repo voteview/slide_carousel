@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/voteview/slide_carousel.svg?branch=master)](https://travis-ci.org/voteview/slide_carousel)
+
 # slide_carousel
 
 This repository holds the slides used on the voteview.com front page carousel and instructions for adding slides to the carousel:
