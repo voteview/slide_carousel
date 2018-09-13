@@ -1,13 +1,14 @@
 [
 	{
-		"image": "bush_ground_zero.jpg",
+		"image": "bush_groundzero.jpg",
 		"link": "/rollcall/RH1070339",
 		"title": "Key Votes: Authorization for the Use of Military Force (post-9/11)",
 		"caption": "The House of Representatives voted 421-1 to authorize the use of military force against the perpetrators of the September 11th attacks",
-		"weight": 400
+		"weight": 400,
+		"mask": "light"
 	},
 	{
-		"image": "clinton_impeachment.jpg",
+		"image": "clinton_impeach.jpg",
 		"link": "/rollcall/RH1051162",
 		"title": "Key Votes: Initiate Impeachment of President Bill Clinton",
 		"caption": "On December 19th, 1998, the House of Representatives passed House Resolution 611, referred President Bill Clinton to the Senate for impeachment prosecution on charges of perjury and obstruction of justice",
