@@ -1,8 +1,9 @@
-[![Build Status](https://travis-ci.org/voteview/slide_carousel.svg?branch=master)](https://travis-ci.org/voteview/slide_carousel)
-
 # slide_carousel
 
-This repository holds the slides used on the voteview.com front page carousel and instructions for adding slides to the carousel:
+[![Build Status](https://travis-ci.org/voteview/slide_carousel.svg?branch=master)](https://travis-ci.org/voteview/slide_carousel)
+
+
+This repository holds the slides used on the voteview.com front page carousel and instructions for adding slides to the carousel.
 
 ## Images
 
@@ -31,3 +32,6 @@ Images can be any web-friendly format. Size should be very wide (1000+ px) and 3
 * *link*: Relative link on the site for the slide. (OPTIONAL)
 * *mask*: If provided, applies a semi-transparent black mask layer on top of the image. This is used to get ensure contrast with the caption text when the background image is very light. Valid choices are "light", "medium", or "strong". (OPTIONAL)
 
+## Checking
+
+`verify.py` runs a simple verification loop that verifies that the slides JSON file is valid and that all images/videos referenced in the slides are present in the right place. This script is run by Continuous Integration testing on commit.
