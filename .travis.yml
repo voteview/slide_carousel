@@ -1,5 +1,3 @@
-language: node_js
+language: python
 sudo: false
-before_script:
-  - npm install -g jsonlint
-script: jsonlint -q json/slides.json
+script: python verify.py
