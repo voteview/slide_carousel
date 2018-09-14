@@ -1,18 +1,46 @@
 [
 	{
+		"image": "era.jpg",
+		"link": "/rollcall/RS0920533",
+		"title": "Key Votes: Equal Rights Amendment 1972",
+		"caption": "The Senate passed the Equal Rights Amendment 91-9, but an insufficient number of state legislatures subsequently ratified it.",
+		"weight": 400
+	},
+	{
+		"image": "gulf_war.jpg",
+		"link": "/rollcall/RH1020008",
+		"title": "Key Votes: Authorizing Use of Military Force (Gulf War, 1991)",
+		"caption": "The House of Representatives authorized use of military force against Iraq in response to the invasion of Kuwait and United National Security Council Resolution 678",
+		"weight": 400
+	},
+	{
+		"image": "johnson_impeach.jpg",
+		"link": "/rollcall/RS0400335",
+		"title": "Key Votes: President Andrew Johnson Acquitted, Barely",
+		"caption": "The Senate failed, barely, to secure a two-thirds majority in favor of convicting President Andrew Johnson",
+		"weight": 400
+	},
+	{
 		"image": "bush_groundzero.jpg",
 		"link": "/rollcall/RH1070339",
 		"title": "Key Votes: Authorization for the Use of Military Force (post-9/11)",
 		"caption": "The House of Representatives voted 421-1 to authorize the use of military force against the perpetrators of the September 11th attacks",
-		"weight": 400,
+		"weight": 4,
 		"mask": "light"
+	},
+	{
+		"image": "clinton_impeach.jpg",
+		"link": "/rollcall/RS1060018",
+		"title": "Key Votes: President Bill Clinton Acquited",
+		"caption": "President Clinton was acquited of obstruction of justice charges in his impeachment trial, a two-thirds majority vote having been necessary to convict."
+		"weight": 4
 	},
 	{
 		"image": "clinton_impeach.jpg",
 		"link": "/rollcall/RH1051162",
 		"title": "Key Votes: Initiate Impeachment of President Bill Clinton",
 		"caption": "On December 19th, 1998, the House of Representatives passed House Resolution 611, referred President Bill Clinton to the Senate for impeachment prosecution on charges of perjury and obstruction of justice",
-		"weight": 400
+		"weight": 8
 	},
 	{
 		"image": "",
