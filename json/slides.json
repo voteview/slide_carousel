@@ -1,5 +1,19 @@
 [
 	{
+		"image": "22nd.jpg",
+		"link": "/rollcall/RS0800019",
+		"title": "Key Votes: 22nd Amendment",
+		"caption": "The 22nd Amendment, which established term limits for the Presidency of the United States, passed with some bipartisan support.",
+		"weight": 400
+	},
+	{
+		"image": "lyon-sedition.jpg",
+		"link": "/rollcall/RH0050107",
+		"title": "Key Votes: Sedition Act of 1798",
+		"caption": "Under the direction of President John Adams, the Congress passed the Sedition Act of 1798, which made it a criminal offence to publish statements critical of the federal government. The first individual to be tried under the law was Rep. Matthew Lyon, who unsurprisingly had voted against its passage. Lyon was re-elected from jail.",
+		"weight": 400
+	},
+	{
 		"image": "leach.jpg",
 		"link": "/rollcall/RH1060274",
 		"title": "Key Votes: Gramm-Leach-Bliley Ends Glass-Steagall",
