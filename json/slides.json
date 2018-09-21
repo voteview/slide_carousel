@@ -1,5 +1,12 @@
 [
 	{
+		"image": "antietam.jpg",
+		"link": "/rollcall/RH0400321",
+		"title": "Key Votes: Re-admitting the Southern States to Congress",
+		"caption": "Although President Johnson had earlier admitted the former Confederate States of America, Congress refused to seat their congressional delegations until passing HR1058 along party lines.",
+		"weight": 400
+	},
+	{
 		"image": "22nd.jpg",
 		"link": "/rollcall/RS0800019",
 		"title": "Key Votes: 22nd Amendment",
