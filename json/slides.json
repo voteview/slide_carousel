@@ -11,7 +11,7 @@
 		"image": "nominate_tabular.png",
 		"title": "Tabular Data: The Bare Facts",
 		"caption": "Use the 'tabular view' to quickly check NOMINATE scores",
-		"link": "/congress/senate/tabular",
+		"link": "/congress/senate/115/text",
 		"mask": "strong",
 		"weight": 20
 	},
@@ -88,7 +88,8 @@
 		"link": "/rollcall/RS0920533",
 		"title": "Key Votes: Equal Rights Amendment 1972",
 		"caption": "The Senate passed the Equal Rights Amendment 91-9, but an insufficient number of state legislatures subsequently ratified it.",
-		"weight": 4
+		"weight": 4,
+		"mask": "light"
 	},
 	{
 		"image": "gulf_war.jpg",
@@ -139,7 +140,8 @@
 		"title": "Key Votes: The Confirmation of Nelson Rockefeller as Vice President",
 		"caption": "Although confirmed 92-7, Rockefeller did not make an impact as Vice President and subsequently withdrew from President Ford's re-election ticket.",
 		"link": "/rollcall/RS0931092",
-		"weight": 4
+		"weight": 4,
+		"mask": "light"
 	},
 	{
 		"image": "ford_confirmation.jpg",
