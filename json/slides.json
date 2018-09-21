@@ -1,24 +1,31 @@
 [
 	{
+		"image": "leach.jpg",
+		"link": "/rollcall/RH1060274",
+		"title": "Key Votes: Gramm-Leach-Bliley Ends Glass-Steagall",
+		"caption": "In 1999, the 65 year old Glass-Steagall provisions, which required banks to separate investments and deposits. Critics allege this led to risky investment practices, and subsequently the 2008 financial crisis.",
+		"weight": 400
+	},
+	{
 		"image": "era.jpg",
 		"link": "/rollcall/RS0920533",
 		"title": "Key Votes: Equal Rights Amendment 1972",
 		"caption": "The Senate passed the Equal Rights Amendment 91-9, but an insufficient number of state legislatures subsequently ratified it.",
-		"weight": 400
+		"weight": 4
 	},
 	{
 		"image": "gulf_war.jpg",
 		"link": "/rollcall/RH1020008",
 		"title": "Key Votes: Authorizing Use of Military Force (Gulf War, 1991)",
 		"caption": "The House of Representatives authorized use of military force against Iraq in response to the invasion of Kuwait and United National Security Council Resolution 678",
-		"weight": 400
+		"weight": 4
 	},
 	{
 		"image": "johnson_impeach.jpg",
 		"link": "/rollcall/RS0400335",
 		"title": "Key Votes: President Andrew Johnson Acquitted, Barely",
 		"caption": "The Senate failed, barely, to secure a two-thirds majority in favor of convicting President Andrew Johnson",
-		"weight": 400
+		"weight": 4
 	},
 	{
 		"image": "bush_groundzero.jpg",
