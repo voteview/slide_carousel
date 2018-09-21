@@ -36,7 +36,8 @@
 		"title": "Political Parties", 
 		"caption": "Explore current and historical political parties, map party control, and learn about polarization.", 
 		"link": "/parties/all",
-		"weight": 25
+		"weight": 25,
+		"mask": "light"
 	},
 	{
 		"image": "115th_senate.jpg", 
@@ -58,7 +59,8 @@
 		"link": "/rollcall/RH0400321",
 		"title": "Key Votes: Re-admitting the Southern States to Congress",
 		"caption": "Although President Johnson had earlier admitted the former Confederate States of America, Congress refused to seat their congressional delegations until passing HR1058 along party lines.",
-		"weight": 4
+		"weight": 4,
+		"mask": "light"
 	},
 	{
 		"image": "22nd.jpg",
@@ -78,7 +80,7 @@
 		"image": "leach.jpg",
 		"link": "/rollcall/RH1060274",
 		"title": "Key Votes: Gramm-Leach-Bliley Ends Glass-Steagall",
-		"caption": "In 1999, the 65 year old Glass-Steagall provisions, which required banks to separate investments and deposits. Critics allege this led to risky investment practices, and subsequently the 2008 financial crisis.",
+		"caption": "In 1999, Congress repealed the 65 year old Glass-Steagall provisions, which required banks to separate investments and deposits. Critics allege this led to risky investment practices, and subsequently the 2008 financial crisis.",
 		"weight": 4
 	},
 	{
@@ -93,7 +95,8 @@
 		"link": "/rollcall/RH1020008",
 		"title": "Key Votes: Authorizing Use of Military Force (Gulf War, 1991)",
 		"caption": "The House of Representatives authorized use of military force against Iraq in response to the invasion of Kuwait and United National Security Council Resolution 678",
-		"weight": 4
+		"weight": 4,
+		"mask": "light"
 	},
 	{
 		"image": "johnson_impeach.jpg",
