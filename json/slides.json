@@ -1,5 +1,12 @@
 [
 	{
+		"image": "kavanaugh.jpg",
+		"title": "Key Votes: Brett Kavanaugh Confirmed to Supreme Court",
+		"caption": "After a nomination process that culminated in a public FBI investigation, Brett Kavanaugh was confirmed largely along party lines 50-48.",
+		"link": "/rollcall/RS1150548",
+		"weight": 50	
+	},
+	{
 		"video": "mccain_thumbsdown.mp4",
 		"title": "Key Votes: Affordable Care Act: 'Skinny Repeal'",
 		"caption": "The Senate's attempt to repeal the Affordable Care Act narrowly failed due to a surprise defection by Sen. John McCain",
