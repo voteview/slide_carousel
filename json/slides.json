@@ -1,10 +1,17 @@
 [
 	{
+		"image": "rioter.jpg",
+		"title": "Key Votes: Congress rejects Hawley objection, certifies 2020 election results",
+		"caption": "Hours after armed rioters storm the U.S. capitol to demand the 2020 presidential election be overturned, 7 Senators vote in support of their demands",
+		"link": "/rollcall/RS1170002",
+		"weight": 10
+	},
+	{
 		"image": "kavanaugh.jpg",
 		"title": "Key Votes: Brett Kavanaugh Confirmed to Supreme Court",
 		"caption": "After a nomination process that culminated in a public FBI investigation, Brett Kavanaugh was confirmed largely along party lines 50-48.",
 		"link": "/rollcall/RS1150548",
-		"weight": 10	
+		"weight": 4
 	},
 	{
 		"video": "mccain_thumbsdown.mp4",
@@ -12,7 +19,7 @@
 		"caption": "The Senate's attempt to repeal the Affordable Care Act narrowly failed due to a surprise defection by Sen. John McCain",
 		"link": "/rollcall/RS1150179",
 		"mask": "light",
-		"weight": 15
+		"weight": 10
 	},
 	{
 		"image": "nominate_tabular.png",
