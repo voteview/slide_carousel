@@ -22,6 +22,14 @@
 		"weight": 10
 	},
 	{
+		"video": "impeach2.mp4",
+		"title": "Key Votes: Second Impeachment of Donald J. Trump",
+		"caption": "The House impeached President Donald J. Trump for a second time, an unprecedented feat in U.S. history, on charges of fomenting insurrection",
+		"link": "/rollcall/RH1170016",
+		"mask": "light",
+		"weight": 10
+	},
+	{
 		"image": "nominate_tabular.png",
 		"title": "Tabular Data: The Bare Facts",
 		"caption": "Use the 'tabular view' to quickly check NOMINATE scores",
@@ -110,6 +118,14 @@
 		"link": "/rollcall/RH1020008",
 		"title": "Key Votes: Authorizing Use of Military Force (Gulf War, 1991)",
 		"caption": "The House of Representatives authorized use of military force against Iraq in response to the invasion of Kuwait and United National Security Council Resolution 678",
+		"weight": 4,
+		"mask": "light"
+	},
+	{
+		"image": "kyotoaccord.jpg",
+		"link": "/rollcall/RS1050205",
+		"title": "Key Votes: Byrd-Hagel Resolution on Climate (1997)",
+		"caption": "In 1997, the Senate voted 95-0 to restrict entry of the U.S. into future international climate treaties, ending hopes for legally binding emissions targets for the U.S.",
 		"weight": 4,
 		"mask": "light"
 	},
