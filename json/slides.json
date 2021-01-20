@@ -318,6 +318,20 @@
 		"link": "/rollcall/RH1160473",
 		"mask": "light",
 		"weight": 4
+	},
+	{
+		"image": "window_rock.jpg",
+		"title": "Key Votes: Apologizing to Native Peoples (Defense Appropriations Act 2010)",
+		"caption": "Buried dozens of pages into the Defense Appropriations Act of 2010 was the first and only congressional apology to Native peoples.",
+		"link": "/rollcall/RH1110983",
+		"weight": 4
+	},
+	{
+		"image": "yellowstone.jpg",
+		"title": "Key Votes: Establish Yellowstone National Park (1872)",
+		"caption": "The 42nd Congress voted 115-65 to establish Yellowstone, America's first national park -- despite concerns surrounding federalism",
+		"link": "/rollcall/RH0420165",
+		"weight": 4
 	}
 ]
 

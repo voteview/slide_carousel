@@ -3,6 +3,7 @@
 from __future__ import print_function
 import json
 import os
+import pprint
 import sys
 import traceback
 
@@ -26,15 +27,33 @@ def verify():
         sys.exit(1)
 
     missing_images = []
+    missing_metadata = []
+    invalid_mask = []
     for slide in file:
         if "image" in slide and not os.path.isfile("images/" + slide["image"]):
             missing_images.append(slide["image"])
         if "video" in slide and not os.path.isfile("images/" + slide["video"]):
             missing_images.append(slide["video"])
+        if not "image" in slide and not "video" in slide:
+            missing_metadata.append(slide)
+        elif any([not x in slide for x in ["title", "caption", "link", "weight"]]):
+            missing_metadata.append(slide)
+        elif "mask" in slide and slide["mask"] not in ["light", "medium", "strong"]:
+            invalid_mask.append(slide["title"])
 
     if missing_images:
         print("Error: Some missing images")
-        print(missing_images)
+        pprint.pprint(missing_images)
+        sys.exit(1)
+
+    if missing_metadata:
+        print("Error: Some missing metadata")
+        pprint.pprint(missing_metadata)
+        sys.exit(1)
+
+    if invalid_mask:
+        print("Error: invalid visual masks")
+        pprint.pprint(invalid_mask)
         sys.exit(1)
 
 if __name__ == "__main__":
