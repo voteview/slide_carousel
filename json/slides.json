@@ -213,21 +213,21 @@
 		"caption": "Explore the votes of Hiram Rhodes Revels, the first African-American man elected to the Senate",
 		"link": "/person/7825/hiram-rhodes-revels",
 		"mask": "light",
-		"weight": 50
+		"weight": 2
 	},
 	{
 		"image": "kamalaharris.jpg",
 		"title": "Kamala Harris",
 		"caption": "Before she became Vice President, Kamala Harris was the first South Asian-American woman elected to the Senate",
 		"link": "/person/41701/kamala-devi-harris",
-		"weight": 50
+		"weight": 5
 	},
 	{
 		"image": "tammybaldwin.jpg",
 		"title": "Tammy Baldwin",
 		"caption": "Tammy Baldwin (D-WI) became the first openly LGBT senator in 2012.",
 		"link": "/person/29940/tammy-baldwin",
-		"weight": 50 
+		"weight": 2 
 	},
 	{
 		"image": "1st_congress.jpg",
