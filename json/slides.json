@@ -302,6 +302,14 @@
 		"caption": "President Reagan's nominee for Associate Justice of the Supreme Court, Robert Bork, found his nomination defeated in the Senate. His name subsequently became a verb, meaning 'to attack or defeat a nominee unfairly through an organized campaign of harsh public criticism or vilification'.",
 		"link": "/rollcall/RS1000348",
 		"weight": 4
+	},
+	{
+		"video": "duncanhunter.mp4",
+		"title": "Duncan D. Hunter",
+		"caption": "Rep Duncan D. Hunter (R-CA) gained notoriety for smoking a vape pen during a congressional hearing on regulating tobacco. He was subsequently convicted of campaign finance violations and resigned, before receiving a presidential pardon from President Trump",
+		"link": "/person/20963/duncan-duane-hunter",
+		"mask": "light",
+		"weight": 4
 	}
 ]
 
