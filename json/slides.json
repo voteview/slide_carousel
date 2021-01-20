@@ -236,7 +236,14 @@
 		"title": "Kamala Harris",
 		"caption": "Before she became Vice President, Kamala Harris was the first South Asian-American woman elected to the Senate",
 		"link": "/person/41701/kamala-devi-harris",
-		"weight": 5
+		"weight": 8
+	},
+	{
+		"image": "46.jpg",
+		"title": "Joseph R. Biden Jr.",
+		"caption": "As Joe Biden is inaugurated as America's 46th President, browse his votes as a U.S. Senator",
+		"link": "/person/14101/joseph-robinette-biden-jr",
+		"weight": 25
 	},
 	{
 		"image": "tammybaldwin.jpg",
