@@ -67,12 +67,28 @@
 		"caption": "Visualize the 115th Senate and its members, compare it with the past", 
 		"link": "/congress/senate",
 		"mask": "light",
-		"weight": 20
+		"weight": 2
 	},
 	{
 		"image": "115th_house.jpg", 
 		"title": "The 115th Congress: House of Representatives", 
 		"caption": "Visualize the 115th House of Representatives and its members, compare it with the past", 
+		"link": "/congress/house",
+		"weight": 2
+	},
+	{
+		"image": "senate_grid.jpg",
+		"title": "Visualize the Senate",
+		"caption": "Visualize the 117th Senate and its members, and compare it with past congresses",
+		"mask": "medium",
+		"link": "/congress/senate",
+		"weight": 20
+	},
+	{
+		"image": "house_grid.jpg",
+		"title": "Visualize the House",
+		"caption": "Visualize the 117th House and its members, and compare it with past congresses",
+		"mask": "medium",
 		"link": "/congress/house",
 		"weight": 20
 	},
