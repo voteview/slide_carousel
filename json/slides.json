@@ -355,6 +355,14 @@
 		"caption": "The 42nd Congress voted 115-65 to establish Yellowstone, America's first national park -- despite concerns surrounding federalism",
 		"link": "/rollcall/RH0420165",
 		"weight": 4
+	},
+	{
+		"image": "confederate_cabinet.jpg",
+		"title": "Key Votes: Try Jefferson Davis for Treason (1866)",
+		"caption": "In 1866, the House voted 105-20 to try former Confederate President Jefferson Davis for treason -- the trial ultimately never occurred.",
+		"link": "/rollcall/RH0390257",
+		"mask": "light",
+		"weight": 4
 	}
 ]
 
