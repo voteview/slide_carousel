@@ -36,7 +36,7 @@ def verify():
             missing_images.append(slide["video"])
         if not "image" in slide and not "video" in slide:
             missing_metadata.append(slide)
-        elif any([not x in slide for x in ["title", "caption", "link", "weight"]]):
+        elif any([not x in slide for x in ["title", "caption", "weight"]]):
             missing_metadata.append(slide)
         elif "mask" in slide and slide["mask"] not in ["light", "medium", "strong"]:
             invalid_mask.append(slide["title"])

@@ -1,10 +1,17 @@
 [
 	{
+		"image": "rand_paul.jpg",
+		"title": "In the News: Senate agrees ex-officials can be impeached",
+		"caption": "Sen. Rand Paul's motion to hold that impeaching officials no longer in office was defeated 55-45. Most legal scholars agree ex-officials can legally be impeached.",
+		"link": "/rollcall/RS1170008",
+		"weight": 100
+	},
+	{
 		"image": "rioter.jpg",
 		"title": "Key Votes: Congress rejects Hawley objection, certifies 2020 election results",
 		"caption": "Hours after armed rioters storm the U.S. capitol to demand the 2020 presidential election be overturned, 7 Senators vote in support of their demands",
 		"link": "/rollcall/RS1170002",
-		"weight": 10
+		"weight": 20
 	},
 	{
 		"image": "kavanaugh.jpg",
@@ -58,7 +65,7 @@
 		"title": "Political Parties", 
 		"caption": "Explore current and historical political parties, map party control, and learn about polarization.", 
 		"link": "/parties/all",
-		"weight": 25,
+		"weight": 20,
 		"mask": "light"
 	},
 	{
@@ -67,14 +74,14 @@
 		"caption": "Visualize the 115th Senate and its members, compare it with the past", 
 		"link": "/congress/senate",
 		"mask": "light",
-		"weight": 2
+		"weight": 1
 	},
 	{
 		"image": "115th_house.jpg", 
 		"title": "The 115th Congress: House of Representatives", 
 		"caption": "Visualize the 115th House of Representatives and its members, compare it with the past", 
 		"link": "/congress/house",
-		"weight": 2
+		"weight": 1
 	},
 	{
 		"image": "senate_grid.jpg",
