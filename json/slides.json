@@ -4,6 +4,13 @@
 		"title": "In the News: Senate agrees ex-officials can be impeached",
 		"caption": "Sen. Rand Paul's motion to hold that impeaching officials no longer in office was defeated 55-45. Most legal scholars agree ex-officials can legally be impeached.",
 		"link": "/rollcall/RS1170008",
+		"weight": 20
+	},
+	{
+		"image": "mtg_ad.jpg",
+		"title": "In the News: Marjorie Taylor Greene removed from House committees",
+		"caption": "Rep. Marjorie Taylor Greene (R-GA) has been removed from House committee appointments after media coverage of past instances in which she claimed school shootings, the murder of Heather Heyer, the 2017 Las Vegas mass shootings, the 2019 Christchurch Mosque shootings, and the September 11th attacks were all faked; that former President Barack Obama directed a street gang to murder DNC staffer Seth Rich; that Ruth Bader Ginsberg had died and been replaced by a body double years before her actual death; that prominent Democrats are Satan-worshipping pedophiles; that deadly wildfires in California were caused by solar generators in space; and that the United Nations and Holocaust survivor George Soros use 'immigrant pawns' as part of a plan to commit 'white genocide'. The vote fell mostly along party lines.",
+		"link": "/rollcall/RS1170024",
 		"weight": 100
 	},
 	{
