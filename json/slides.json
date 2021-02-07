@@ -418,6 +418,22 @@
 		"link": "/rollcall/RH0390257",
 		"mask": "light",
 		"weight": 4
+	},
+	{
+		"image": "rayburn.jpg",
+		"title": "Sam Rayburn",
+		"caption": "Explore the votes of America's longest-serving Speaker of the House, Sam Rayburn, who presided over key civil rights votes",
+		"link": "/person/7753/samuel-taliaferro-rayburn",
+		"mask": "light",
+		"weight": 4
+	},
+	{
+		"image": "rainey_house.jpg",
+		"title": "Joseph Rainey",
+		"caption": "Joseph Rainey (R-SC), born into slavery, was the first African-American elected to the House of Representatives.",
+		"link ": "/person/7693/joseph-hayne-rainey",
+		"mask": "light",
+		"weight": 4
 	}
 ]
 
