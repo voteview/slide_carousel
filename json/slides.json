@@ -439,6 +439,14 @@
 		"image": "cra_1964.jpg",
 		"title": "Key Votes: Civil Rights Act (1964)",
 		"caption": "The Civil Rights Act of 1964 outlawed discrimination based on race, sex, and national origin in employment, accommodation, and education.",
+		"link": "/rollcall/RS0880409",
+		"mask": "light",
+		"weight": 4
+	},
+	{
+		"image": "vra_1965.jpg",
+		"title": "Key Votes: Voting Rights Act (1965)",
+		"caption": "The Voting Rights Act of 1965 prohibited racial discrimination in voting by protecting voting rights. It banned poll taxes and literacy tests and required states with historians of Jim Crow discrimination to seek advance clearance before changing  and requiring states with histories of Jim Crow discrimination to obtain advance clearance to change laws governing voting.",
 		"link": "/rollcall/RS0890078",
 		"mask": "light",
 		"weight": 4
