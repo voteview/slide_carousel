@@ -450,6 +450,22 @@
 		"link": "/rollcall/RS0890078",
 		"mask": "light",
 		"weight": 4
+	},
+	{
+		"image": "taiwan.jpg",
+		"title": "Key Votes: Taiwan Relations Act",
+		"caption": "In 1979, the U.S. Congress established de facto diplomatic relations with Taiwan, including a commitment to militarily defend Taiwan from attack.",
+		"link": "/rollcall/RH0960034",
+		"mask": "light",
+		"weight": 1
+	},
+	{
+		"image": "cancer_cells.jpg",
+		"title": "Key Votes: National Cancer Act",
+		"caption": "In 1971, Congress and President Nixon declared a national 'war on cancer', which established funding for 15 new cancer research centers.",
+		"link": "/rollcall/RH0920261",
+		"mask": "light",
+		"weight": 1
 	}
 ]
 
