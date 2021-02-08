@@ -220,28 +220,28 @@
 		"link": "/rollcall/RS1060018",
 		"title": "Key Votes: President Bill Clinton Acquited",
 		"caption": "President Clinton was acquited of obstruction of justice charges in his impeachment trial, a two-thirds majority vote having been necessary to convict.",
-		"weight": 4
+		"weight": 2
 	},
 	{
 		"image": "clinton_impeach.jpg",
 		"link": "/rollcall/RH1051162",
 		"title": "Key Votes: Initiate Impeachment of President Bill Clinton",
 		"caption": "On December 19th, 1998, the House of Representatives passed House Resolution 611, referred President Bill Clinton to the Senate for impeachment prosecution on charges of perjury and obstruction of justice",
-		"weight": 8
+		"weight": 4
 	},
 	{
 		"image": "china_trade.jpg",
 		"link": "/rollcall/RS1060625",
 		"title": "Key Votes: Normalization of Trade with China",
 		"caption": "Over 50 years after relations between the two countries ended, the United States Senate voted 83-15 to normalize trade with the People's Republic of China",
-		"weight": 4
+		"weight": 2
 	},
 	{
 		"image": "rockefeller.jpg",
 		"title": "Key Votes: The Confirmation of Nelson Rockefeller as Vice President",
 		"caption": "Although confirmed 92-7, Rockefeller did not make an impact as Vice President and subsequently withdrew from President Ford's re-election ticket.",
 		"link": "/rollcall/RS0931092",
-		"weight": 4,
+		"weight": 2,
 		"mask": "light"
 	},
 	{
@@ -256,7 +256,7 @@
 		"title": "Key Votes: Sandra Day O'Connor, The First Female Justice",
 		"caption": "Despite opposition from conservative groups, Justice O'Connor was confirmed unanimously",
 		"link": "/rollcall/RS0970274",
-		"weight": 4	
+		"weight": 2	
 	},
 	{
 		"image": "lbj.jpg",
@@ -307,7 +307,7 @@
 		"title": "Kamala Harris",
 		"caption": "Before she became Vice President, Kamala Harris was the first South Asian-American woman elected to the Senate",
 		"link": "/person/41701/kamala-devi-harris",
-		"weight": 8
+		"weight": 4
 	},
 	{
 		"image": "46.jpg",
@@ -379,7 +379,7 @@
 		"title": "Key Votes: Robert Bork, Rejected",
 		"caption": "President Reagan's nominee for Associate Justice of the Supreme Court, Robert Bork, found his nomination defeated in the Senate. His name subsequently became a verb, meaning 'to attack or defeat a nominee unfairly through an organized campaign of harsh public criticism or vilification'.",
 		"link": "/rollcall/RS1000348",
-		"weight": 4
+		"weight": 2
 	},
 	{
 		"video": "duncanhunter.mp4",
@@ -387,7 +387,7 @@
 		"caption": "Rep Duncan D. Hunter (R-CA) gained notoriety for smoking a vape pen during a congressional hearing on regulating tobacco. He was subsequently convicted of campaign finance violations and resigned, before receiving a presidential pardon from President Trump",
 		"link": "/person/20963/duncan-duane-hunter",
 		"mask": "light",
-		"weight": 4
+		"weight": 2
 	},
 	{
 		"video": "stewart911.mp4",
@@ -425,13 +425,21 @@
 		"caption": "Explore the votes of America's longest-serving Speaker of the House, Sam Rayburn, who presided over key civil rights votes",
 		"link": "/person/7753/samuel-taliaferro-rayburn",
 		"mask": "light",
-		"weight": 4
+		"weight": 2
 	},
 	{
 		"image": "rainey_house.jpg",
 		"title": "Joseph Rainey",
 		"caption": "Joseph Rainey (R-SC), born into slavery, was the first African-American elected to the House of Representatives.",
 		"link ": "/person/7693/joseph-hayne-rainey",
+		"mask": "light",
+		"weight": 2
+	},
+	{
+		"image": "cra_1964.jpg",
+		"title": "Key Votes: Civil Rights Act (1964)",
+		"caption": "The Civil Rights Act of 1964 outlawed discrimination based on race, sex, and national origin in employment, accommodation, and education.",
+		"link": "/rollcall/RS0890078",
 		"mask": "light",
 		"weight": 4
 	}
