@@ -466,6 +466,22 @@
 		"link": "/rollcall/RH0920261",
 		"mask": "light",
 		"weight": 1
+	},
+	{
+		"image": "lady_liberty.jpg",
+		"title": "Key Votes: Immigration and Nationality Act (1965)",
+		"caption": "In 1965, Congress passed the Immigration and Nationality Act, which eliminated restrictions racial, ethnic, and national origin restrictions on immigration and established priority immigration procedures for family reunification.",
+		"link": "/rollcall/RH0890177",
+		"mask": "light",
+		"weight": 4
+	},
+	{
+		"image": "nauvoo_temple.jpg",
+		"title": "Key Votes: Edmunds Anti-Polygamy Act (1882)",
+		"caption": "In 1882, Congress passed the Edmunds Anti-Polygamy Act, which prohibited polygamy and 'unlawful cohabitation'. The Act set off a series of court cases which culminated in the disincorporation of the Church of Jesus Christ of Latter-day Saints.",
+		"link": "/rollcall/RH0470064",
+		"mask": "medium",
+		"weight": 1
 	}
 ]
 
