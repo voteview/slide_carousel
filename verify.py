@@ -1,6 +1,7 @@
 """ Simple audit script for carousel slides, CI friendly. """
 
 from __future__ import print_function
+import glob
 import json
 import os
 import pprint
@@ -35,17 +36,35 @@ def verify():
     missing_images = []
     missing_metadata = []
     invalid_mask = []
+    slide_files = glob.glob("images/*.*")
     for slide in file:
+        # Check if we're missing files
         if "image" in slide and not os.path.isfile("images/" + slide["image"]):
             missing_images.append(slide["image"])
         if "video" in slide and not os.path.isfile("images/" + slide["video"]):
             missing_images.append(slide["video"])
+
+        # Check if we've got messed up metadata
         if not "image" in slide and not "video" in slide:
             missing_metadata.append(slide)
         elif any([not x in slide for x in ["title", "caption", "weight"]]):
             missing_metadata.append(slide)
         elif "mask" in slide and slide["mask"] not in ["light", "medium", "strong"]:
             invalid_mask.append(slide["title"])
+
+        # Remove files from list of files -- if any are left, they are unused
+        try:
+            if "image" in slide:
+                slide_files.remove("images/%s" % slide["image"])
+            elif "video" in slide:
+                slide_files.remove("images/%s" % slide["video"])
+        except ValueError:
+            pass
+
+
+    if slide_files:
+        print("Warning: Some images are unused.")
+        pprint.pprint(slide_files)
 
     if missing_images:
         print("Error: Some missing images")
