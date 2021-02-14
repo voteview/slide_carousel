@@ -2,7 +2,7 @@
 	{
 		"image": "trump_speech.jpg",
 		"title": "Trump Acquitted (Again)",
-		"caption": "The Senate voted to acquit former President Trump of charges of inciting the January 6th party riot; although Senate Minority Leader Mitch McConnell expressed that Trump was legally culpable for a \"disgraceful dereliction of duty\", he concluded that the Senate is unable to convict former officials, although the Senate concluded it has the power to do so.",
+		"caption": "The Senate voted to acquit former President Trump of charges of inciting the January 6th attack on congress. Although Senate Minority Leader Mitch McConnell expressed that Trump was legally culpable for a \"disgraceful dereliction of duty\", he concluded that the Senate is unable to convict former officials. The Senate had previously held it has the power to do so.",
 		"link": "/rollcall/RS1170059",
 		"mask": "light",
 		"weight": 20
@@ -122,6 +122,14 @@
 		"mask": "medium",
 		"link": "/congress/house",
 		"weight": 20
+	},
+	{
+		"image": "speaker_grid.jpg",
+		"title": "Speakers of the House",
+		"caption": "Explore the vote records of the 55 men and women who have served as Speaker of the House",
+		"mask": "medium",
+		"link": "/search/speakers%20of%20the%20house",
+		"weight": 4
 	},
 	{
 		"image": "antietam.jpg",
