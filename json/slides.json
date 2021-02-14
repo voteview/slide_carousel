@@ -1,10 +1,18 @@
 [
 	{
+		"image": "trump_speech.jpg",
+		"title": "Trump Acquitted (Again)",
+		"caption": "The Senate voted to acquit former President Trump of charges of inciting the January 6th party riot; although Senate Minority Leader Mitch McConnell expressed that Trump was legally culpable for a \"disgraceful dereliction of duty\", he concluded that the Senate is unable to convict former officials, although the Senate concluded it has the power to do so.",
+		"link": "/rollcall/RS1170059",
+		"mask": "light",
+		"weight": 20
+	},
+	{
 		"image": "rand_paul.jpg",
 		"title": "In the News: Senate agrees ex-officials can be tried",
 		"caption": "Sen. Rand Paul's motion to hold that the Senate cannot try an impeached official who is no longer in office was defeated 55-45. Most legal scholars agree such a trial is permissible.",
 		"link": "/rollcall/RS1170008",
-		"weight": 20
+		"weight": 10
 	},
 	{
 		"image": "mtg_ad.jpg",
@@ -12,7 +20,7 @@
 		"caption": "Rep. Marjorie Taylor Greene (R-GA) was removed from House committee appointments via a mostly party-line vote after media coverage of statements she made over the last few years, including instances where she falsely claimed the September 11th attacks, Christchurch Mosque Shootings, murder of Heather Heyer, and school shootings across America were all fake.",
 		"link": "/rollcall/RS1170024",
 		"mask": "medium",
-		"weight": 20
+		"weight": 10
 	},
 	{
 		"image": "mtg_ad.jpg",
@@ -20,7 +28,7 @@
 		"caption": "Rep. Marjorie Taylor Greene (R-GA) was removed from House committee appointments via a mostly party-line vote after media coverage of statements she made over the last few years, including instances where she falsely claimed that former President Barack Obama personally ordered a street gang to murder DNC staffer Seth Rich.",
 		"link": "/rollcall/RS1170024",
 		"mask": "medium",
-		"weight": 20
+		"weight": 10
 	},
 	{
 		"image": "rioter.jpg",

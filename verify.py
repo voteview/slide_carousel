@@ -13,6 +13,12 @@ def verify():
     the images are not missing.
     """
 
+    # Python 2/3 compatibility for FileNotFoundError.
+    try:
+        FileNotFoundError
+    except:
+        FileNotFoundError = IOError
+
     try:
         file = json.load(open("json/slides.json", "r"))
     except FileNotFoundError:
