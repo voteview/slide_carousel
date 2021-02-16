@@ -466,6 +466,14 @@
 		"link": "/rollcall/RH0470064",
 		"mask": "medium",
 		"weight": 1
+	},
+	{
+		"image": "peace_conference.jpg",
+		"title": "Key Votes: Overriding John Tyler's Veto (1845)",
+		"caption": "On the final day of John Tyler's presidency, a broad coalition overrode his veto on a minor bill related to customs enforcement -- the first time congress ever overrode a presidential veto.",
+		"link": "/rollcall/RH0280597",
+		"mask": "medium",
+		"weight": 2
 	}
 ]
 
