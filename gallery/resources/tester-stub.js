@@ -24,8 +24,12 @@ function swapSlide() {
 	if(slide["video"] !== undefined) {
 		document.getElementById("slide_image").style.display = "none";
 		document.getElementById("slide_video").style.display = "inline";
+		document.getElementById("slide_image").src = "";
 		document.getElementById("slide_video").src = `../images/${slide["video"]}`;
+		document.getElementById("slide_video").parentNode.load();
+		document.getElementById("slide_video").parentNode.play();
 	} else {
+		document.getElementById("slide_video").parentNode.pause();
 		document.getElementById("slide_image").style.display = "inline";
 		document.getElementById("slide_image").src = `../images/${slide["image"]}`;
 		document.getElementById("slide_video").src = "";
