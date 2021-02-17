@@ -514,6 +514,14 @@
 		"link": "/search/post%20office%20building",
 		"mask": "light",
 		"weight": 1
+	},
+	{
+		"image": "ryan_white.jpg",
+		"title": "Key Votes: Ryan White CARE Act",
+		"caption": "After almost a decade of ignoring or stigmatizing the victims of HIV/AIDS, Congress agrees to pass the Ryan White CARE Act, which funds the life-saving drug AZT for low-income or uninsured patients. Four senators including Sen. Jesse Helms vote against the act.",
+		"link": "/rollcall/RS1010409",
+		"mask": "medium",
+		"weight": 2
 	}
 ]
 

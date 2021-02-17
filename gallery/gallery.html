@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+		/* Temporarily inlining fonts locally while I investigate a bug. */
+		@font-face {
+		  font-family: 'Lato';
+		  font-style: normal;
+		  font-weight: 400;
+		  src: local('Lato Regular'), local('Lato Regular'), url('resources/LatoLatin-Regular.woff2') format('woff2');
+		  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+		}
+		@font-face {
+		  font-family: 'Lato';
+		  font-style: normal;
+		  font-weight: 700;
+		  src: local('Lato Bold'), local('Lato-Bold'), url('resources/LatoLatin-Bold.woff2') format('woff2');
+		  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+		}
+		</style>
+		<link rel="stylesheet" href="resources/custombootstrap.css" media="screen, projection, print"/>
+		<link rel="stylesheet" href="resources/base.css" media="screen, projection, print"/>
+	</head>
+	<body>
+		<div id="container">
+			<div class=row">
+				<div class="col-md-12">
+					Slide: 
+					<select id="slide_selector" onChange="javascript:swapSlide();">
+					</select>
+
+					<br/>
+
+					Mask: 
+					<select id="slide_mask" onChange="javascript:swapMask();">
+						<option value="">None</option>
+						<option value="light">Light</option>
+						<option value="medium">Medium</option>
+						<option value="strong">Strong</option>
+					</select>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+
+					<div id="mainCarousel" class="carousel slide" data-ride="carousel" data-pause="hover" data-interval="8000">
+					<!-- Indicator list -->
+					<ol class="carousel-indicators">
+						<li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
+					</ol>
+				
+					<!-- Slides -->
+					<div class="carousel-inner" role="listbox">
+						<div id="slide_item" class="item">
+						<a id="slide_link" href="">
+						<img id="slide_image" src="">
+						<video autoplay="" loop=""><source id="slide_video" src="" type="video/mp4"></video>
+						<div class="carousel-caption">
+							<h3 id="slide_header"></h3>
+							<p id="slide_caption"></p>
+						</div>
+						</a>
+						</div>
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	<script type="text/javascript" src="resources/bootstrap.min.js"></script>		
+	<script type="text/javascript" src="resources/tester-compiled.js"></script>		
+	</body>
+</html>
+	
+
