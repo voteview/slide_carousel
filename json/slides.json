@@ -476,6 +476,14 @@
 		"weight": 2
 	},
 	{
+		"image": "washington_cc.jpg",
+		"title": "Key Votes: The First Veto (1792)",
+		"caption": "In America's first use of the Presidential veto, George Washington vetoed legislation affixing the size of the House of Representatives at 120 members.",
+		"link": "/rollcall/RS0020033",
+		"mask": "light",
+		"weight": 2
+	},
+	{
 		"image": "traffic_jam.jpg",
 		"title": "Key Votes: Federal Aid Highway Act (1956)",
 		"caption": "The Senate narrowly votes to approve the Federal Air Highway Act, which funded construction of the Interstate system, linking America by car.",
