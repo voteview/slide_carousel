@@ -482,6 +482,14 @@
 		"link": "/rollcall/RS0840166",
 		"mask": "medium",
 		"weight": 1
+	},
+	{
+		"image": "fort_knox.jpg",
+		"title": "Key Votes: Gold Standard Act (1900)",
+		"caption": "The Gold Standard Act of 1900 ended the decades-running debate over bimetalism and restored the U.S. to 'gold standard' currency -- the system lasted until 1971",
+		"link": "/rollcall/RH0560040",
+		"mask": "strong",
+		"weight": 1
 	}
 ]
 
