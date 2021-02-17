@@ -474,6 +474,14 @@
 		"link": "/rollcall/RH0280597",
 		"mask": "medium",
 		"weight": 2
+	},
+	{
+		"image": "traffic_jam.jpg",
+		"title": "Key Votes: Federal Aid Highway Act (1956)",
+		"caption": "The Senate narrowly votes to approve the Federal Air Highway Act, which funded construction of the Interstate system, linking America by car.",
+		"link": "/rollcall/RS0840166",
+		"mask": "medium",
+		"weight": 1
 	}
 ]
 
