@@ -20,27 +20,39 @@
 		</style>
 		<link rel="stylesheet" href="resources/custombootstrap.css" media="screen, projection, print"/>
 		<link rel="stylesheet" href="resources/base.css" media="screen, projection, print"/>
+		<script type="text/javascript" src="resources/jquery-1.11.1.min.js"></script>
 	</head>
 	<body>
-		<div id="container">
-			<div class=row">
-				<div class="col-md-12">
-					Slide: 
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12" style="margin-top:20px;">
+					<h3>Carousel Slide Preview</h3>
+
+					Slide:
 					<select id="slide_selector" onChange="javascript:swapSlide();">
 					</select>
 
-					<br/>
-
-					Mask: 
+					Mask:
 					<select id="slide_mask" onChange="javascript:swapMask();">
 						<option value="">None</option>
 						<option value="light">Light</option>
 						<option value="medium">Medium</option>
 						<option value="strong">Strong</option>
 					</select>
+
+					<br/>
+
+					Title: <input type="text" id="prototype_title" style="width:665px;" onkeypress="javascript:updateSlide();" onchange="javascript:updateSlide();">
+
+					<br/>
+
+					Caption:<br/>
+					<textarea id="prototype_caption" style="width:700px;height:100px;" onkeyup="javascript:updateSlide();" onchange="javascript:updateSlide();"></textarea>
+
+					<h3>Output</h3>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row" style="height:400px;">
 				<div class="col-md-12">
 
 					<div id="mainCarousel" class="carousel slide" data-ride="carousel" data-pause="hover" data-interval="8000">
@@ -51,9 +63,9 @@
 				
 					<!-- Slides -->
 					<div class="carousel-inner" role="listbox">
-						<div id="slide_item" class="item">
+						<div id="slide_item" class="item active">
 						<a id="slide_link" href="">
-						<img id="slide_image" src="">
+						<img id="slide_image" src="../images/115th_house.jpg">
 						<video autoplay="" loop=""><source id="slide_video" src="" type="video/mp4"></video>
 						<div class="carousel-caption">
 							<h3 id="slide_header"></h3>
@@ -67,9 +79,8 @@
 			</div>
 		</div>
 
-	<script type="text/javascript" src="resources/bootstrap.min.js"></script>		
-	<script type="text/javascript" src="resources/tester-compiled.js"></script>		
+	<script type="text/javascript" src="resources/bootstrap.min.js"></script>
+	<script type="text/javascript" src="resources/tester-compiled.js"></script>
 	</body>
 </html>
-	
 
