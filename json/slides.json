@@ -490,6 +490,14 @@
 		"link": "/rollcall/RH0560040",
 		"mask": "strong",
 		"weight": 1
+	},
+	{
+		"image": "tva_dam.jpg",
+		"title": "Key Votes: Creation of the Tennessee Valley Authority",
+		"caption": "The creation of the TVA, a cornerstone of the New Deal, constituted a massive public works investment in the construction of dams and the electrification of Tennesssee, Kentucky, Mississippi, and Alabama",
+		"link": "/rollcall/RH0730036",
+		"mask": "light",
+		"weight": 1
 	}
 ]
 
