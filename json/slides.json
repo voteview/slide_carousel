@@ -20,7 +20,7 @@
 		"caption": "Rep. Marjorie Taylor Greene (R-GA) was removed from House committee appointments via a mostly party-line vote after media coverage of statements she made over the last few years, including instances where she falsely claimed the September 11th attacks, Christchurch Mosque Shootings, murder of Heather Heyer, and school shootings across America were all fake.",
 		"link": "/rollcall/RS1170024",
 		"mask": "medium",
-		"weight": 10
+		"weight": 5
 	},
 	{
 		"image": "mtg_ad.jpg",
@@ -28,14 +28,14 @@
 		"caption": "Rep. Marjorie Taylor Greene (R-GA) was removed from House committee appointments via a mostly party-line vote after media coverage of statements she made over the last few years, including instances where she falsely claimed that former President Barack Obama personally ordered a street gang to murder DNC staffer Seth Rich.",
 		"link": "/rollcall/RS1170024",
 		"mask": "medium",
-		"weight": 10
+		"weight": 5
 	},
 	{
 		"image": "rioter.jpg",
 		"title": "Key Votes: Congress rejects Hawley objection, certifies 2020 election results",
 		"caption": "Hours after armed rioters storm the U.S. capitol to demand the 2020 presidential election be overturned, 7 Senators vote in support of their demands",
 		"link": "/rollcall/RS1170002",
-		"weight": 20
+		"weight": 10
 	},
 	{
 		"image": "kavanaugh.jpg",
