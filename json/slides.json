@@ -522,6 +522,30 @@
 		"link": "/rollcall/RS1010409",
 		"mask": "medium",
 		"weight": 2
+	},
+	{
+		"image": "robert_smalls.jpg",
+		"title": "Robert Smalls",
+		"caption": "Robert Smalls, born enslaved in South Carolina, stole the CSS Planter and delivered it to Union troops. After the Civil War, Smalls was elected to the South Carolina legislature and later to the U.S. Congress where he served 5 terms during and after Reconstruction.",
+		"link": "/person/8590/robert-smalls",
+		"mask": "strong",
+		"weight": 2
+	},
+	{
+		"image": "humphrey.jpg",
+		"title": "Hubert Humphrey",
+		"caption": "In 1949, U.S. Senator Hubert Humphrey called for the abolition of the filibuster in order to advance civil rights bills; as Senate Majority Whip, he advanced civil rights bills; as a Senator in 1975, he voted to lower the threshold to break a filibuster from 67 votes to 60.",
+		"link": "/person/4728/hubert-horatio-humphrey-jr",
+		"mask": "strong",
+		"weight": 2
+	},
+	{
+		"image": "mr_smith.jpg",
+		"title": "Key Votes: Lower the Cloture Threshold from 67 to 60",
+		"caption": "On March 7th, 1975, in a bipartisan vote, the U.S. Senate voted to amend Rule XXII (which governs the end of debate, and thus filibustering) to lower the threshold for cloture from 67 to 60 votes.",
+		"link": "/rollcall/RS0940055",
+		"mask": "strong",
+		"weight": 2
 	}
 ]
 
