@@ -5,14 +5,14 @@
 		"caption": "The Senate voted to acquit former President Trump of charges of inciting the January 6th attack on congress. Although Senate Minority Leader Mitch McConnell expressed that Trump was legally culpable for a \"disgraceful dereliction of duty\", he concluded that the Senate is unable to convict former officials. The Senate had previously held it has the power to do so.",
 		"link": "/rollcall/RS1170059",
 		"mask": "light",
-		"weight": 20
+		"weight": 10
 	},
 	{
 		"image": "rand_paul.jpg",
 		"title": "In the News: Senate agrees ex-officials can be tried",
 		"caption": "Sen. Rand Paul's motion to hold that the Senate cannot try an impeached official who is no longer in office was defeated 55-45. Most legal scholars agree such a trial is permissible.",
 		"link": "/rollcall/RS1170008",
-		"weight": 10
+		"weight": 5
 	},
 	{
 		"image": "mtg_ad.jpg",
@@ -23,19 +23,11 @@
 		"weight": 5
 	},
 	{
-		"image": "mtg_ad.jpg",
-		"title": "In the News: Rep. Greene removed from House committees",
-		"caption": "Rep. Marjorie Taylor Greene (R-GA) was removed from House committee appointments via a mostly party-line vote after media coverage of statements she made over the last few years, including instances where she falsely claimed that former President Barack Obama personally ordered a street gang to murder DNC staffer Seth Rich.",
-		"link": "/rollcall/RS1170024",
-		"mask": "medium",
-		"weight": 5
-	},
-	{
 		"image": "rioter.jpg",
 		"title": "Key Votes: Congress rejects Hawley objection, certifies 2020 election results",
 		"caption": "Hours after armed rioters storm the U.S. capitol to demand the 2020 presidential election be overturned, 7 Senators vote in support of their demands",
 		"link": "/rollcall/RS1170002",
-		"weight": 10
+		"weight": 5
 	},
 	{
 		"image": "kavanaugh.jpg",
@@ -50,7 +42,7 @@
 		"caption": "The Senate's attempt to repeal the Affordable Care Act narrowly failed due to a surprise defection by Sen. John McCain",
 		"link": "/rollcall/RS1150179",
 		"mask": "light",
-		"weight": 10
+		"weight": 8
 	},
 	{
 		"video": "impeach2.mp4",
@@ -58,7 +50,7 @@
 		"caption": "The House impeached President Donald J. Trump for a second time, an unprecedented feat in U.S. history, on charges of fomenting insurrection",
 		"link": "/rollcall/RH1170016",
 		"mask": "light",
-		"weight": 10
+		"weight": 8
 	},
 	{
 		"image": "nominate_tabular.png",
@@ -298,7 +290,7 @@
 		"title": "Joseph R. Biden Jr.",
 		"caption": "As Joe Biden is inaugurated as America's 46th President, browse his votes as a U.S. Senator",
 		"link": "/person/14101/joseph-robinette-biden-jr",
-		"weight": 25
+		"weight": 15
 	},
 	{
 		"image": "tammybaldwin.jpg",
