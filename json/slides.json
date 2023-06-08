@@ -1,12 +1,16 @@
 [
-    {  
+    {
+		"image": "jeff",
+		"title": "jeff's slide"
+	},
+	{  
 		"image": "mccarthy_elected_speaker.jpg",
 	    "title": "Kevin McCarthy Wins the Speakership after 15 ballots",
 		"caption": "Kevin McCarty of California is elected Speaker of the House on January 7, 2023, four days and 15 ballots the election of the speaker began at the start of the 118th Congress.",
 		"link": "/rollcall/RH1180019",
 		"mask": "medium",
 		"weight": 10
-    },
+	},
 	{
 		"image": "trump_speech.jpg",
 		"title": "Trump Acquitted (Again)",
@@ -488,7 +492,7 @@
 		"title": "Key Votes: Federal Aid Highway Act (1956)",
 		"caption": "The Senate narrowly votes to approve the Federal Air Highway Act, which funded construction of the Interstate system, linking America by car.",
 		"link": "/rollcall/RS0840166",
-		"mask": "medium",
+		"mask": "light",
 		"weight": 1
 	},
 	{
