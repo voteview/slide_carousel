@@ -618,8 +618,8 @@
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
 		"title": "Key Votes: Chinese Exclusion Act Of 1882",
-		"caption": "Congress authorized the prohibition of immigration to America from China for ten years. ",
-		"link": "FIND A LINK",
+		"caption": "Congress authorized the prohibition of immigration to America from China; the first bill to ban immigration from any foreign country.",
+		"link": "/rollcall/RH0470083",
 		"mask": "",
 		"weight": 2
 	}
@@ -635,7 +635,7 @@
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
 		"title": "Key Votes: The 13th Amendment",
 		"caption": "Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.",
-		"link": "FIND A LINK",
+		"link": "/rollcall/RH0390423",
 		"mask": "",
 		"weight": 2
 	}
@@ -657,25 +657,17 @@
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "Key Votes: National Security Act of 1947",
-		"caption": "In 1947, Congress passed this bill restructuring the U.S. military and intelligence community, shaping the next 40 years of foreign and domestic policy. ",
-		"link": "",
-		"mask": "",
-		"weight": 2
-	}
-        {
-		"image": "UPLOAD TO IMAGES FOLDER FIRST",
 		"title": "Key Votes: Act Prohibiting Importation Of Slaves",
 		"caption": "After permitted by the Constitution in 1808, Congress was quick to ban the importation of slaves from Africa. ",
-		"link": "",
+		"link": "/rollcall/RH0090131",
 		"mask": "",
 		"weight": 2
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
 		"title": "Key Votes: DREAM Act",
-		"caption": "Read about how the Obama-backed immigration law was defeated by the Senate filibuster. ",
-		"link": "",
+		"caption": "Read about how the Democratic immigration law was defeated by the Senate filibuster. ",
+		"link": "/rollcall/RH1170090",
 		"mask": "",
 		"weight": 2
 	}
@@ -683,15 +675,15 @@
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
 		"title": "Key Votes: Tax Reform Act of 1986",
 		"caption": "As a cornerstone of his neoliberal policies, President Reagan lowered taxes on private individuals and corporations. ",
-		"link": "",
+		"link": "/rollcall/RS0990506",
 		"mask": "",
 		"weight": 2
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "Key Votes: Economic Growth and Tax Reconciliation Act",
+		"title": "Key Votes: Jobs Growth and Tax Reconciliation Act",
 		"caption": "Commonly known as the Bush Tax Cuts, this package lowered income taxes and created a child tax credit. ",
-		"link": "",
+		"link": "/rollcall/RH1080181",
 		"mask": "",
 		"weight": 2
 	}
@@ -699,7 +691,7 @@
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
 		"title": "Key Votes: Confirmation Of Chief Justice Roger B. Taney",
 		"caption": "In 1836, Roger B. Taney, the infamous author of the Dred Scott case, was confirmed by the Senate as Chief Justice.  ",
-		"link": "",
+		"link": "/rollcall/RS0240040",
 		"mask": "",
 		"weight": 2
 	}
@@ -732,6 +724,294 @@
 		"title": "Key Votes: Taft-Hartley Act",
 		"caption": "While vetoed by President Truman, Congress overrode this veto to restrict the powers of labor unions.",
 		"link": "/rollcall/RH0800026",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Key Votes: Don't Ask Don't Tell, Repeal Act of 2010",
+		"caption": "This law repealed the 'Don't Ask Don't Tell' policy in the Clinton Administration that barred 'out' homosexual men from serving in the military.",
+		"link": "/rollcall/RH1111621",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Key Votes: Confirm Gerald Ford As Vice President",
+		"caption": "As disgraced former VP Spiro Agnew resigned in 1973, the Senate confirmed Congressman Gerald Ford to take his place as Nixon's right-hand man.",
+		"link": "/rollcall/RH0930468",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Key Votes: Impeachment Of Justice Samuel Chase",
+		"caption": "In 1804, the House impeached a Supreme Court Justice for the first time. His acquital in the Senate set a precedent of judicial independence from the legislature.",
+		"link": "/rollcall/RH0080124",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+         {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
 		"mask": "",
 		"weight": 2
 	}
