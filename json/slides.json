@@ -105,16 +105,16 @@
 		"weight": 1
 	},
 	{
-		"image": "115th_house.jpg", 
-		"title": "The 115th Congress: House of Representatives", 
-		"caption": "Visualize the 115th House of Representatives and its members, compare it with the past", 
+		"image": "118th_house.jpg", 
+		"title": "The 118th Congress: House of Representatives", 
+		"caption": "Visualize the 118th House of Representatives and its members, compare it with the past", 
 		"link": "/congress/house",
 		"weight": 1
 	},
 	{
 		"image": "senate_grid.jpg",
 		"title": "Visualize the Senate",
-		"caption": "Visualize the 117th Senate and its members, and compare it with past congresses",
+		"caption": "Visualize the 118th Senate and its members, and compare it with past congresses",
 		"mask": "medium",
 		"link": "/congress/senate",
 		"weight": 20
@@ -122,7 +122,7 @@
 	{
 		"image": "house_grid.jpg",
 		"title": "Visualize the House",
-		"caption": "Visualize the 117th House and its members, and compare it with past congresses",
+		"caption": "Visualize the 118th House and its members, and compare it with past congresses",
 		"mask": "medium",
 		"link": "/congress/house",
 		"weight": 20
@@ -549,6 +549,22 @@
 		"caption": "On March 7th, 1975, in a bipartisan vote, the U.S. Senate voted to amend Rule XXII (which governs the end of debate, and thus filibustering) to lower the threshold for cloture from 67 to 60 votes.",
 		"link": "/rollcall/RS0940055",
 		"mask": "strong",
+		"weight": 2
+	}
+	{
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Key Votes: Fiscal Responsibilty Act of 2023",
+		"caption": "President Joe Biden and House Speaker Kevin McCarthy make a historic compromise to prevent a default on the national debt. ",
+		"link": "/rollcall/RH1180242",
+		"mask": "medium",
+		"weight": 2
+	}
+	{
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Key Votes: Indian Removal Act",
+		"caption": "President Andrew Jackson narrowly passed a bill forcing all American Indians East of the Mississippi River to be relocated West.",
+		"link": "/rollcall/RH0210026",
+		"mask": "medium",
 		"weight": 2
 	}
 ]
