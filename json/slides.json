@@ -1113,6 +1113,254 @@
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Who Represents My City?: San Francisco?",
+		"caption": "See who represents the city of San Francisco in the House and Senate.",
+		"link": "/district/San%20Francisco",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Who Represents My City?: Seattle",
+		"caption": "See who represents the city of Seattle in the House and Senate.",
+		"link": "/district/seattle",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Who Represents My City?: San Antonio",
+		"caption": "See who represents the city of San Antonio in the House and Senate.",
+		"link": "/district/san%20antonio",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Who Represents My City?: Cincinnati",
+		"caption": "See who represents the city of Cincinnati in the House and Senate.",
+		"link": "/district/cincinnati",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Who Represents My City? Las Vegas",
+		"caption": "See who represents the city of Las Vegas in the House and Senate.",
+		"link": "/district/las%20vegas",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Who Represents My City?: Syracuse",
+		"caption": "See who represents the city of Syracuse in the House and Senate.",
+		"link": "/district/syracuse",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Who Represents My City?: Boston",
+		"caption": "See who represents the city of Boston in the House and Senate.",
+		"link": "/district/boston",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Who Represents My City?: Jacksonville",
+		"caption": "See who represents the city of Jacksonville in the House and Senate.",
+		"link": "/district/Jacksonville",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Who Represents My City?: Omaha",
+		"caption": "See who represents the city of Omaha in the House and Senate.",
+		"link": "/district/omaha",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Who Represents My City?: Honolulu",
+		"caption": "See who represents the city of Honolulu in the House and Senate.",
+		"link": "/district/honolulu",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "The Republican Party",
+		"caption": "Read about the history of the 'Grand Old Party' in Congress.",
+		"link": "/parties/200/republican-party",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "The Democratic Party",
+		"caption": "Read about the Congressional history of the oldest political party in the world today.",
+		"link": "/parties/100/democratic-party",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "In The News: John Fetterman",
+		"caption": "From his unfortunate stroke to his endorsement of psychedelic mushrooms, PA Sen. John Fetterman's name is now widely known.",
+		"link": "/person/42301/john-karl-fetterman",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "In The News: George Santos",
+		"caption": "After being exposed for lying about various subjects, George Santos was put up to a vote for punishment by the chamber.",
+		"link": "/rollcall/RH1180216",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "",
+		"caption": "",
+		"link": "",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
 		"title": "",
 		"caption": "",
 		"link": "",
