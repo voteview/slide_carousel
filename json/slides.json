@@ -28,7 +28,7 @@
 	},
 	{
 		"image": "mtg_ad.jpg",
-		"title": "In the News: Rep. Greene removed from House committees",
+		"title": "Key Votes: Rep. Greene removed from House committees",
 		"caption": "Rep. Marjorie Taylor Greene (R-GA) was removed from House committee appointments via a mostly party-line vote after media coverage of statements she made over the last few years, including instances where she falsely claimed the September 11th attacks, Christchurch Mosque Shootings, murder of Heather Heyer, and school shootings across America were all fake.",
 		"link": "/rollcall/RS1170024",
 		"mask": "medium",
@@ -97,8 +97,8 @@
 		"mask": "light"
 	},
 	{
-		"image": "115th_senate.jpg", 
-		"title": "The 115th Congress: Senate", 
+		"image": "118th_senate.jpg", 
+		"title": "The 118th Congress: Senate", 
 		"caption": "Visualize the 115th Senate and its members, compare it with the past", 
 		"link": "/congress/senate",
 		"mask": "light",
@@ -130,7 +130,7 @@
 	{
 		"image": "speaker_grid.jpg",
 		"title": "Speakers of the House",
-		"caption": "Explore the vote records of the 54 men and women who have served as Speaker of the House",
+		"caption": "Explore the vote records of the 55 men and women who have served as Speaker of the House",
 		"mask": "medium",
 		"link": "/search/speakers%20of%20the%20house",
 		"weight": 4
@@ -242,14 +242,14 @@
 	{
 		"image": "sandra.jpg",
 		"title": "Key Votes: Sandra Day O'Connor, The First Female Justice",
-		"caption": "Despite opposition from conservative groups, Justice O'Connor was confirmed unanimously",
+		"caption": "Despite opposition from conservative groups, Justice O'Connor was confirmed unanimously.",
 		"link": "/rollcall/RS0970274",
 		"weight": 2	
 	},
 	{
 		"image": "lbj.jpg",
 		"title": "Lyndon B. Johnson: The Master of the Senate",
-		"caption": "Learn about LBJ's career in the Senate and explore key votes",
+		"caption": "Learn about LBJ's career in the Senate and explore key votes.",
 		"link": "/person/4979/lyndon-baines-johnson",
 		"weight": 1
 	},
@@ -321,7 +321,7 @@
 	{
 		"image": "alaska.jpg",
 		"title": "Alaska",
-		"caption": "Rep. Don Young has represented Alaska since 1973. Do you know who served before him?",
+		"caption": "Until his death in 2022, Rep. Don Young had represented Alaska since 1973. Do you know who served before him?",
 		"link": "/district/anchorage, ak 99501",
 		"weight": 2
 	},
