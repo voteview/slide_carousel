@@ -1184,7 +1184,7 @@
 		"weight": 2
 	}
         {
-		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"image": "UPLOAD TO IMAGES FOLDER FIRST (got images up to here)",
 		"title": "Who Represents My City?: Honolulu",
 		"caption": "See who represents the city of Honolulu in the House and Senate.",
 		"link": "/district/honolulu",
@@ -1281,89 +1281,89 @@
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
+		"title": "Rep. Barney Frank",
+		"caption": "Look at the votes of Rep. Barney Frank, the first 'out' gay member of Congress.",
 		"link": "/person/14824/barney-frank",
 		"mask": "",
 		"weight": 2
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
+		"title": "John C. Calhoun",
+		"caption": "Here are the votes of John C. Calhoun, a political ally and former Vice President of Andrew Jackson.",
+		"link": "/person/1418/john-caldwell-calhoun",
 		"mask": "",
 		"weight": 2
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
+		"title": "Dick Cheney",
+		"caption": "See the House career of Dick Cheney, who later went onto serve as Vice President under George W. Bush.",
+		"link": "/person/14611/richard-bruce-cheney",
 		"mask": "",
 		"weight": 2
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
+		"title": "Nancy Pelosi",
+		"caption": "Look at the career of the first female Speaker of the House.",
+		"link": "/person/15448/nancy-pelosi",
 		"mask": "",
 		"weight": 2
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
+		"title": "Senator Obama",
+		"caption": "Before he was elected President, Barack Obama served as a U.S. Senator from Illinois.",
+		"link": "/person/40502/barack-obama",
 		"mask": "",
 		"weight": 2
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
+		"title": "Mike Pence",
+		"caption": "Look at the votes of former Vice President Mike Pence.",
+		"link": "/person/20117/mike-pence",
 		"mask": "",
 		"weight": 2
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
+		"title": "Theodore Bilbo",
+		"caption": "Analyze the record of Mississipi Senator Theodore Bilbo, often remembered as one of the staunchest supporters of segregation.",
+		"link": "/person/710/theodore-gilmore-bilbo",
 		"mask": "",
 		"weight": 2
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
+		"title": "Alexandria-Ocasio-Cortez",
+		"caption": "Often known as 'AOC', the congresswoman from New York has been a key figure in the progressive wing of the Democratic Party, pushing for bold proposals such as Medicare For All and the Green New Deal.",
+		"link": "/person/21949/alexandria-ocasio-cortez",
 		"mask": "",
 		"weight": 2
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
+		"title": "Joe Manchin",
+		"caption": "See the voting record Sen. Joe Manchin, one of the most moderate members of the current Democratic Caucus.",
+		"link": "/person/40915/joe-manchin-iii",
 		"mask": "",
 		"weight": 2
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
+		"title": "Mitt Romney",
+		"caption": "Look at the career of Mitt Romney, former Presidential candidate and current Republican Senator from Utah.",
+		"link": "/person/41902/willard-mitt-mitt-romney",
 		"mask": "",
 		"weight": 2
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
+		"title": "About This Site",
+		"caption": "VoteView enables you to view the numbers for every congressional vote in the history of the United States. It is currently maintained by the UCLA Department Of Political Science.",
+		"link": "https://voteview.com/about",
 		"mask": "",
 		"weight": 2
 	}
