@@ -1225,9 +1225,57 @@
 	}
         {
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
+		"title": "The Federalist Party",
+		"caption": "Among the first political parties to exist in the nation, prominent members of the Federalist Party included John Adams and Alexander Hamilton.",
+		"link": "/parties/1/federalist-party",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "The Democratic-Republican Party",
+		"caption": "Among the first political parties in America, prominent members of the Democratic-Republican Party included Thomas Jefferson and James Madison.",
+		"link": "/parties/13/democratic-republican-party",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Free Soil Party",
+		"caption": "Between the fall of the Whigs and the rise of the Republicans, many anti-slavery Americans voted in favor of this minor party.",
+		"link": "/parties/300/free-soil-party",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Sen. Strom Thurmond",
+		"caption": "See the votes of Strom Thurmond, infamous segregationist legislator and only centenarian to ever serve in the Senate.",
+		"link": "/person/99369/james-strom-thurmond",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Sen. Robert Byrd",
+		"caption": "See the votes of Robert Byrd, the longest-serving Senator of all time.",
+		"link": "/person/1366/robert-carlyle-byrd",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Sen. Jesse Helms",
+		"caption": "See the votes of Jesse Helms, one of the forefathers of modern conservatism.",
+		"link": "/person/14105/jesse-helms",
+		"mask": "",
+		"weight": 2
+	}
+        {
+		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"title": "Rep. Bobby Rush",
+		"caption": "Look at the Congressional career of former Black Panther Party member Bobby Rush.",
+		"link": "/person/29346/bobby-l-rush",
 		"mask": "",
 		"weight": 2
 	}
@@ -1235,55 +1283,7 @@
 		"image": "UPLOAD TO IMAGES FOLDER FIRST",
 		"title": "",
 		"caption": "",
-		"link": "",
-		"mask": "",
-		"weight": 2
-	}
-        {
-		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
-		"mask": "",
-		"weight": 2
-	}
-        {
-		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
-		"mask": "",
-		"weight": 2
-	}
-        {
-		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
-		"mask": "",
-		"weight": 2
-	}
-        {
-		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
-		"mask": "",
-		"weight": 2
-	}
-        {
-		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
-		"mask": "",
-		"weight": 2
-	}
-        {
-		"image": "UPLOAD TO IMAGES FOLDER FIRST",
-		"title": "",
-		"caption": "",
-		"link": "",
+		"link": "/person/14824/barney-frank",
 		"mask": "",
 		"weight": 2
 	}
