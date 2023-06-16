@@ -600,11 +600,11 @@
 		"weight": 2
 	}
         {
-		"image": "UPLOAD FIRST",
+		"image": "ketanji.png",
 		"title": "Key Votes: Kentanji Brown Jackson Confirmed",
 		"caption": "The U.S. Senate Confirmed Ketanji Brown Jackson as an Associate Justice on the Supreme Court",
 		"link": "/rollcall/RS1170654",
-		"mask": "",
+		"mask": "light",
 		"weight": 2
 	}
         {
@@ -720,11 +720,11 @@
 		"weight": 2
 	}
         {
-		"image": "UPLOAD FIRST",
+		"image": "union.png",
 		"title": "Key Votes: Taft-Hartley Act",
 		"caption": "While vetoed by President Truman, Congress overrode this veto to restrict the powers of labor unions.",
 		"link": "/rollcall/RH0800026",
-		"mask": "",
+		"mask": "medium",
 		"weight": 2
 	}
         {
