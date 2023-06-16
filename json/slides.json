@@ -550,7 +550,7 @@
 		"link": "/rollcall/RS0940055",
 		"mask": "strong",
 		"weight": 2
-	}
+	},
 	{
 		"image": "debt.png",
 		"title": "Key Votes: Fiscal Responsibilty Act of 2023",
@@ -558,7 +558,7 @@
 		"link": "/rollcall/RH1180242",
 		"mask": "light",
 		"weight": 2
-	}
+	},
 	{
 		"image": "native-americans.png",
 		"title": "Key Votes: Indian Removal Act",
@@ -566,7 +566,7 @@
 		"link": "/rollcall/RH0210026",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "iraq-war2.png",
 		"title": "Key Votes: Authorization For Use Of Military Force Against Iraq Of 2002",
@@ -574,7 +574,7 @@
 		"link": "/rollcall/RH1070961",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "japan-war.png",
 		"title": "Key Votes: Declaration Of War On Japan",
@@ -582,7 +582,7 @@
 		"link": "/rollcall/RH0770077",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "wwii-memorial.png",
 		"title": "Key Votes: G.I. Bill",
@@ -590,7 +590,7 @@
 		"link": "/rollcall/RH0780131",
 		"mask": "none",
 		"weight": 2
-	}
+	},
         {
 		"image": "biden-crime.png",
 		"title": "Key Votes: Violent Crime Control And Law Enforcement Act Of 1994",
@@ -598,7 +598,7 @@
 		"link": "/rollcall/RH1030916",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "ketanji.png",
 		"title": "Key Votes: Kentanji Brown Jackson Confirmed",
@@ -606,7 +606,7 @@
 		"link": "/rollcall/RS1170654",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "watergate.png",
 		"title": "Key Votes: Authorization Of The Printing Of The Report Reccomending Impeachment Of President Richard M. Nixon",
@@ -614,7 +614,7 @@
 		"link": "/rollcall/RH0930906",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "chinese-workers.png",
 		"title": "Key Votes: Chinese Exclusion Act Of 1882",
@@ -622,7 +622,7 @@
 		"link": "/rollcall/RH0470083",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "hawaii.png",
 		"title": "Key Votes: Joint Resolution To Provide For Annexing The Hawaiian Islands",
@@ -630,7 +630,7 @@
 		"link": "/rollcall/RH0550135",
 		"mask": "none",
 		"weight": 2
-	}
+	},
         {
 		"image": "slaves.png",
 		"title": "Key Votes: The 13th Amendment",
@@ -638,7 +638,7 @@
 		"link": "/rollcall/RH0390423",
 		"mask": "strong",
 		"weight": 2
-	}
+	},
         {
 		"image": "gingrich.png",
 		"title": "Newt Gingrich, Former Speaker",
@@ -646,7 +646,7 @@
 		"link": "/person/14627/newton-leroy-gingrich",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "mitch-mcconnell.png",
 		"title": "Sen. Mitch McConnell",
@@ -654,7 +654,7 @@
 		"link": "/person/14921/addison-mitchell-mitch-mcconnell",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "slave-ships.png",
 		"title": "Key Votes: Act Prohibiting Importation Of Slaves",
@@ -662,7 +662,7 @@
 		"link": "/rollcall/RH0090131",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "dream-act.png",
 		"title": "Key Votes: DREAM Act",
@@ -670,7 +670,7 @@
 		"link": "/rollcall/RH1170090",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "reagan.png",
 		"title": "Key Votes: Tax Reform Act of 1986",
@@ -678,7 +678,7 @@
 		"link": "/rollcall/RS0990506",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "george-w-bush.png",
 		"title": "Key Votes: Jobs Growth and Tax Reconciliation Act",
@@ -686,7 +686,7 @@
 		"link": "/rollcall/RH1080181",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "taney.png",
 		"title": "Key Votes: Confirmation Of Chief Justice Roger B. Taney",
@@ -694,7 +694,7 @@
 		"link": "/rollcall/RS0240040",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "space-force.png",
 		"title": "Key Votes: National Defense Authorization Act For Fiscal Year 2020",
@@ -702,7 +702,7 @@
 		"link": "/rollcall/RH1160671",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "slaves-running-away.png",
 		"title": "Key Votes: Fugitive Slave Act of 1850",
@@ -710,7 +710,7 @@
 		"link": "/rollcall/RS0310243",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "civil-war.png",
 		"title": "Key Votes: Declaration of Aims of The Civil War",
@@ -718,7 +718,7 @@
 		"link": "/rollcall/RS0370067",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "union.png",
 		"title": "Key Votes: Taft-Hartley Act",
@@ -726,7 +726,7 @@
 		"link": "/rollcall/RH0800026",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "dont-ask.png",
 		"title": "Key Votes: Don't Ask Don't Tell, Repeal Act of 2010",
@@ -734,15 +734,15 @@
 		"link": "/rollcall/RH1111621",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "ford-vp.png",
 		"title": "Key Votes: Confirm Gerald Ford As Vice President",
 		"caption": "As disgraced former VP Spiro Agnew resigned in 1973, the Senate confirmed Congressman Gerald Ford to take his place as Nixon's right-hand man.",
 		"link": "/rollcall/RH0930468",
 		"mask": "light",
-		"weight": 
-	}
+		"weight":  2
+	},
         {
 		"image": "samuel-chase.png",
 		"title": "Key Votes: Impeachment Of Justice Samuel Chase",
@@ -750,7 +750,7 @@
 		"link": "/rollcall/RH0080124",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "impeach.png",
 		"title": "Key Votes: Conviction Of Judge Harry Claiborne",
@@ -758,7 +758,7 @@
 		"link": "/rollcall/RS0990716",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
          {
 		"image": "clarence-thomas.png",
 		"title": "Key Votes: Confirmation Of Associate Justice Clarence Thomas",
@@ -766,7 +766,7 @@
 		"link": "/rollcall/RS1020220",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "hawaii.png",
 		"title": "Key Votes: Statehood of Hawaii",
@@ -774,7 +774,7 @@
 		"link": "/rollcall/RS0860021",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "qadaffi.png",
 		"title": "Key Votes: Authorization Of U.S. Action In Libya",
@@ -782,7 +782,7 @@
 		"link": "/rollcall/RH1120489",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "oil-ship.png",
 		"title": "Key Votes: Expansion Of Sanctions On Iran",
@@ -790,7 +790,7 @@
 		"link": "/rollcall/RH1120923",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "bush-2004.png",
 		"title": "Key Votes: 2005 Objection To Electoral Vote Count In Ohio",
@@ -798,7 +798,7 @@
 		"link": "/rollcall/RH1090006",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "nixon-1968.png",
 		"title": "Key Votes: 1969 Objection To Electoral Vote Count In North Carolina",
@@ -806,7 +806,7 @@
 		"link": "/rollcall/RH0910007",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "stop-asian-hate.png",
 		"title": "Key Votes: Condemning All Forms Of Anti-Asian Sentiment As Related To COVID-19.",
@@ -814,7 +814,7 @@
 		"link": "/rollcall/RH1160892",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "lyon.png",
 		"title": "Key Votes: Explusion Of Matthew Lyon",
@@ -822,7 +822,7 @@
 		"link": "/rollcall/RH0050144",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "trump-mask.png",
 		"title": "Key Votes: Families First Coronavirus Response Act",
@@ -830,7 +830,7 @@
 		"link": "/rollcall/RH1160801",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "john-tower.png",
 		"title": "Key Votes: John Tower Rejected For Defense",
@@ -838,7 +838,7 @@
 		"link": "/rollcall/RS1010020",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "stocks.png",
 		"title": "Key Votes: STOCK Act",
@@ -846,7 +846,7 @@
 		"link": "/rollcall/RS1120249",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "cooperation.png",
 		"title": "Key Votes: The International Cooperation Act",
@@ -854,7 +854,7 @@
 		"link": "/rollcall/RH1020341",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "cpusa.png",
 		"title": "Key Votes: Abolition of The Communist Party",
@@ -862,7 +862,7 @@
 		"link": "/rollcall/RS0830246",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "freedmen-buerau.png",
 		"title": "Key Votes: Civil Rights Act of 1866",
@@ -870,7 +870,7 @@
 		"link": "/rollcall/RH0390115",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "old-people.png",
 		"title": "Key Votes: Social Security Act",
@@ -878,7 +878,7 @@
 		"link": "/rollcall/RH0740039",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "refugees.png",
 		"title": "Key Votes: Comprehensive Immgiration Reform Act of 2006",
@@ -886,7 +886,7 @@
 		"link": "/rollcall/RS1090523",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "voted-stickers.png",
 		"title": "Key Votes: For The People Act",
@@ -894,7 +894,7 @@
 		"link": "https://voteview.com/rollcall/RH1160117",
 		"mask": "strong",
 		"weight": 2
-	}
+	},
         {
 		"image": "ilhan.png",
 		"title": "Key Votes: Condemnation Of President Trump's Racist Comments Directed At Members Of Congress",
@@ -902,7 +902,7 @@
 		"link": "/rollcall/RH1160481",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "trump-wall.png",
 		"title": "Key Votes: Border Security And Immigration Act Of 2018",
@@ -910,7 +910,7 @@
 		"link": "/rollcall/RH1151004",
 		"mask": "none",
 		"weight": 2
-	}
+	},
         {
 		"image": "keystone.png",
 		"title": "Key Votes: Keystone XL Pipeline",
@@ -918,7 +918,7 @@
 		"link": "/rollcall/RS1130571",
 		"mask": "",
 		"weight": 2
-	}
+	},
         {
 		"image": "trump-tax-cuts.png",
 		"title": "Key Votes: Tax Cuts And Jobs Act",
@@ -926,7 +926,7 @@
 		"link": "/rollcall/RH1150636",
 		"mask": "strong",
 		"weight": 2
-	}
+	},
         {
 		"image": "spiro-agnew.png",
 		"title": "Key Votes: Abolish The Vice Presidency",
@@ -934,7 +934,7 @@
 		"link": "/rollcall/RH0080019",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "cia-covert.png",
 		"title": "Key Votes: Abolish Covert Actions of the CIA",
@@ -942,7 +942,7 @@
 		"link": "/rollcall/RS0931016",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "bombing-jerusalem.png",
 		"title": "Key Votes: Condemnation Of Jerusalem Market Bombing",
@@ -950,7 +950,7 @@
 		"link": "/rollcall/RH1050345",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "america-will-prevail.png",
 		"title": "Key Votes: Declaring That The United States Will Prevail In The War On Terror",
@@ -958,7 +958,7 @@
 		"link": "/rollcall/RH1090955",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "america-china-war.png",
 		"title": "Key Votes: Rejection Of China UN Membership",
@@ -966,7 +966,7 @@
 		"link": "/rollcall/RH0840132",
 		"mask": "strong",
 		"weight": 2
-	}
+	},
         {
 		"image": "pledge.png",
 		"title": "Key Votes: Constitutional Amendment For School Prayer",
@@ -974,7 +974,7 @@
 		"link": "/rollcall/RS0980405",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "fentanyl.png",
 		"title": "In The News: Congress Responds To Crisis With HALT Fentanyl Act",
@@ -982,7 +982,7 @@
 		"link": "/rollcall/RH1180236",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "placenta.png",
 		"title": "Key Votes: Partial-Birth Abortion Ban Act",
@@ -990,7 +990,7 @@
 		"link": "/rollcall/RS1080051",
 		"mask": "strong",
 		"weight": 2
-	}
+	},
         {
 		"image": "hastert.png",
 		"title": "Key Votes: Hastert Becomes Speaker",
@@ -998,7 +998,7 @@
 		"link": "/rollcall/RH1060001",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "army-women.png",
 		"title": "Key Votes: Abolish The Womens' Army Corps",
@@ -1006,7 +1006,7 @@
 		"link": "/rollcall/RS0951040",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "biden-kamala-mask.png",
 		"title": "Key Votes: American Rescue Plan",
@@ -1014,7 +1014,7 @@
 		"link": "/rollcall/RH1170048",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "diverse-students.png",
 		"title": "Key Votes: No Race, Sex, Or Creed Quotas",
@@ -1022,7 +1022,7 @@
 		"link": "/rollcall/RH0960315",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "homestead.png",
 		"title": "Key Votes: Homestead Act",
@@ -1030,7 +1030,7 @@
 		"link": "/rollcall/RS0370282",
 		"mask": "strong",
 		"weight": 2
-	}
+	},
         {
 		"image": "execution.png",
 		"title": "Key Votes: Death Penalty For Rebels",
@@ -1038,7 +1038,7 @@
 		"link": "/rollcall/RH0370235",
 		"mask": "none",
 		"weight": 2
-	}
+	},
         {
 		"image": "freedmen-buerau.png",
 		"title": "Key Votes: Grant Freedmen 80 Acres Of Land",
@@ -1046,7 +1046,7 @@
 		"link": "/rollcall/RH0370229",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "havana-cuba.png",
 		"title": "Key Votes: 1899 Treaty With Spain",
@@ -1054,7 +1054,7 @@
 		"link": "/rollcall/RS0550348",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "cambodia.png",
 		"title": "Key Votes: Limit Involvement In Cambodia",
@@ -1062,7 +1062,7 @@
 		"link": "/rollcall/RS0910383",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "reagan-suharto.png",
 		"title": "Key Votes: Prohibition Of Aid To Indonesia",
@@ -1070,7 +1070,7 @@
 		"link": "/rollcall/RH0970324",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "scotus.png",
 		"title": "Key Votes: Nine Supreme Court Justices",
@@ -1078,7 +1078,7 @@
 		"link": "/rollcall/RH0410043",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "levine.png",
 		"title": "Key Votes: Opposing Armed Forces' Transgender Ban",
@@ -1086,7 +1086,7 @@
 		"link": "/rollcall/RH1160134",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "gay-biz.png",
 		"title": "Key Votes: LGBTQ Business Equal Enforcement And Investment Act",
@@ -1094,7 +1094,7 @@
 		"link": "/rollcall/RH1170181",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "lebanon.png",
 		"title": "Key Votes: Military Presence In Lebanon",
@@ -1102,7 +1102,7 @@
 		"link": "/rollcall/RH0980342",
 		"mask": "strong",
 		"weight": 2
-	}
+	},
         {
 		"image": "home-loan-bank.png",
 		"title": "Key Votes: Create Federal Home Loan Banks",
@@ -1110,7 +1110,7 @@
 		"link": "/rollcall/RS0720201",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "san-francisco.png",
 		"title": "Who Represents My City?: San Francisco?",
@@ -1118,7 +1118,7 @@
 		"link": "/district/San%20Francisco",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "seattle.png",
 		"title": "Who Represents My City?: Seattle",
@@ -1126,7 +1126,7 @@
 		"link": "/district/seattle",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "san-antonio.png",
 		"title": "Who Represents My City?: San Antonio",
@@ -1134,7 +1134,7 @@
 		"link": "/district/san%20antonio",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "cincinnati.png",
 		"title": "Who Represents My City?: Cincinnati",
@@ -1142,7 +1142,7 @@
 		"link": "/district/cincinnati",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "vegas.png",
 		"title": "Who Represents My City? Las Vegas",
@@ -1150,7 +1150,7 @@
 		"link": "/district/las%20vegas",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "syracuse.png",
 		"title": "Who Represents My City?: Syracuse",
@@ -1158,7 +1158,7 @@
 		"link": "/district/syracuse",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "boston-skyline.png",
 		"title": "Who Represents My City?: Boston",
@@ -1166,7 +1166,7 @@
 		"link": "/district/boston",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "jacksonville.png",
 		"title": "Who Represents My City?: Jacksonville",
@@ -1174,7 +1174,7 @@
 		"link": "/district/Jacksonville",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "omaha.png",
 		"title": "Who Represents My City?: Omaha",
@@ -1182,7 +1182,7 @@
 		"link": "/district/omaha",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "honolulu.png",
 		"title": "Who Represents My City?: Honolulu",
@@ -1190,7 +1190,7 @@
 		"link": "/district/honolulu",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "gop-hq.png",
 		"title": "The Republican Party",
@@ -1198,7 +1198,7 @@
 		"link": "/parties/200/republican-party",
 		"mask": "none",
 		"weight": 2
-	}
+	},
         {
 		"image": "blue.png",
 		"title": "The Democratic Party",
@@ -1206,7 +1206,7 @@
 		"link": "/parties/100/democratic-party",
 		"mask": "none",
 		"weight": 2
-	}
+	},
         {
 		"image": "fetterman.png",
 		"title": "In The News: John Fetterman",
@@ -1214,7 +1214,7 @@
 		"link": "/person/42301/john-karl-fetterman",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "santos.png",
 		"title": "In The News: George Santos",
@@ -1222,7 +1222,7 @@
 		"link": "/rollcall/RH1180216",
 		"mask": "none",
 		"weight": 2
-	}
+	},
         {
 		"image": "hamilton.png",
 		"title": "The Federalist Party",
@@ -1230,7 +1230,7 @@
 		"link": "/parties/1/federalist-party",
 		"mask": "strong",
 		"weight": 2
-	}
+	},
         {
 		"image": "jefferson.png",
 		"title": "The Democratic-Republican Party",
@@ -1238,7 +1238,7 @@
 		"link": "/parties/13/democratic-republican-party",
 		"mask": "none",
 		"weight": 2
-	}
+	},
         {
 		"image": "free-soil.png",
 		"title": "Free Soil Party",
@@ -1246,7 +1246,7 @@
 		"link": "/parties/300/free-soil-party",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "strom.png",
 		"title": "Sen. Strom Thurmond",
@@ -1254,7 +1254,7 @@
 		"link": "/person/99369/james-strom-thurmond",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "byrd.png",
 		"title": "Sen. Robert Byrd",
@@ -1262,7 +1262,7 @@
 		"link": "/person/1366/robert-carlyle-byrd",
 		"mask": "strong",
 		"weight": 2
-	}
+	},
         {
 		"image": "jesse-helms.png",
 		"title": "Sen. Jesse Helms",
@@ -1270,7 +1270,7 @@
 		"link": "/person/14105/jesse-helms",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "bobby-rush.png",
 		"title": "Rep. Bobby Rush",
@@ -1278,7 +1278,7 @@
 		"link": "/person/29346/bobby-l-rush",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "barney-frank.png",
 		"title": "Rep. Barney Frank",
@@ -1286,7 +1286,7 @@
 		"link": "/person/14824/barney-frank",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "calhoun.png",
 		"title": "John C. Calhoun",
@@ -1294,7 +1294,7 @@
 		"link": "/person/1418/john-caldwell-calhoun",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "dick.png",
 		"title": "Dick Cheney",
@@ -1302,7 +1302,7 @@
 		"link": "/person/14611/richard-bruce-cheney",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "nancy-pelosi.png",
 		"title": "Nancy Pelosi",
@@ -1310,7 +1310,7 @@
 		"link": "/person/15448/nancy-pelosi",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "senator-obama.png",
 		"title": "Senator Obama",
@@ -1318,7 +1318,7 @@
 		"link": "/person/40502/barack-obama",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "mike-pence.png",
 		"title": "Mike Pence",
@@ -1326,7 +1326,7 @@
 		"link": "/person/20117/mike-pence",
 		"mask": "none",
 		"weight": 2
-	}
+	},
         {
 		"image": "bilbo.png",
 		"title": "Theodore Bilbo",
@@ -1334,7 +1334,7 @@
 		"link": "/person/710/theodore-gilmore-bilbo",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "aoc.png",
 		"title": "Alexandria-Ocasio-Cortez",
@@ -1342,7 +1342,7 @@
 		"link": "/person/21949/alexandria-ocasio-cortez",
 		"mask": "medium",
 		"weight": 2
-	}
+	},
         {
 		"image": "manchin.png",
 		"title": "Joe Manchin",
@@ -1350,7 +1350,7 @@
 		"link": "/person/40915/joe-manchin-iii",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "mitt-romney.png",
 		"title": "Mitt Romney",
@@ -1358,7 +1358,7 @@
 		"link": "/person/41902/willard-mitt-mitt-romney",
 		"mask": "light",
 		"weight": 2
-	}
+	},
         {
 		"image": "capitol.png",
 		"title": "About This Site",
