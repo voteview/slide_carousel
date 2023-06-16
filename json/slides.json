@@ -552,11 +552,11 @@
 		"weight": 2
 	}
 	{
-		"image": "UPLOAD TO IMAGES FOLDER FIRST",
+		"image": "debt.png",
 		"title": "Key Votes: Fiscal Responsibilty Act of 2023",
 		"caption": "President Joe Biden and House Speaker Kevin McCarthy make a historic compromise to prevent a default on the national debt. ",
 		"link": "/rollcall/RH1180242",
-		"mask": "medium",
+		"mask": "light",
 		"weight": 2
 	}
 	{
@@ -741,7 +741,7 @@
 		"caption": "As disgraced former VP Spiro Agnew resigned in 1973, the Senate confirmed Congressman Gerald Ford to take his place as Nixon's right-hand man.",
 		"link": "/rollcall/RH0930468",
 		"mask": "light",
-		"weight": 2
+		"weight": 
 	}
         {
 		"image": "samuel-chase.png",
