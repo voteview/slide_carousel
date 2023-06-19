@@ -397,7 +397,8 @@
 		"title": "Key Votes: Establish Yellowstone National Park (1872)",
 		"caption": "The 42nd Congress voted 115-65 to establish Yellowstone, America's first national park -- despite concerns surrounding federalism",
 		"link": "/rollcall/RH0420165",
-		"weight": 4
+		"weight": 4,
+		"mask": "light"
 	},
 	{
 		"image": "confederate_cabinet.jpg",
@@ -508,7 +509,7 @@
 		"title": "Key Votes: Creation of the Tennessee Valley Authority",
 		"caption": "The creation of the TVA, a cornerstone of the New Deal, constituted a massive public works investment in the construction of dams and the electrification of Tennesssee, Kentucky, Mississippi, and Alabama",
 		"link": "/rollcall/RH0730036",
-		"mask": "light",
+		"mask": "medium",
 		"weight": 1
 	},
 	{
@@ -540,7 +541,7 @@
 		"title": "Hubert Humphrey",
 		"caption": "In 1949, U.S. Senator Hubert Humphrey called for the abolition of the filibuster in order to advance civil rights bills; as Senate Majority Whip, he advanced civil rights bills; as a Senator in 1975, he voted to lower the threshold to break a filibuster from 67 votes to 60.",
 		"link": "/person/4728/hubert-horatio-humphrey-jr",
-		"mask": "strong",
+		"mask": "light",
 		"weight": 2
 	},
 	{
@@ -548,7 +549,7 @@
 		"title": "Key Votes: Lower the Cloture Threshold from 67 to 60",
 		"caption": "On March 7th, 1975, in a bipartisan vote, the U.S. Senate voted to amend Rule XXII (which governs the end of debate, and thus filibustering) to lower the threshold for cloture from 67 to 60 votes.",
 		"link": "/rollcall/RS0940055",
-		"mask": "strong",
+		"mask": "medium",
 		"weight": 2
 	},
 	{
@@ -556,7 +557,7 @@
 		"title": "Key Votes: Fiscal Responsibilty Act of 2023",
 		"caption": "President Joe Biden and House Speaker Kevin McCarthy make a historic compromise to prevent a default on the national debt. ",
 		"link": "/rollcall/RH1180242",
-		"mask": "light",
+		"mask": "medium",
 		"weight": 2
 	},
 	{
@@ -572,7 +573,7 @@
 		"title": "Key Votes: Authorization For Use Of Military Force Against Iraq Of 2002",
 		"caption": "Due to suspicions that Iraqi President Saddam Hussein possessed weapons of mass destruction, the U.S. voted to invade the Middle Eastern nation in 2002. ",
 		"link": "/rollcall/RH1070961",
-		"mask": "medium",
+		"mask": "light",
 		"weight": 2
 	},
         {
@@ -580,7 +581,6 @@
 		"title": "Key Votes: Declaration Of War On Japan",
 		"caption": "After the attack on Pearl Harbor in 1941, the U.S. Congress voted nearly unanimously to declare war on Japan.",
 		"link": "/rollcall/RH0770077",
-		"mask": "light",
 		"weight": 2
 	},
         {
@@ -588,7 +588,7 @@
 		"title": "Key Votes: G.I. Bill",
 		"caption": "Near the conclusion of the Second World War, President Roosevelt signed a comprehensive package to economically aid returning veterans. ",
 		"link": "/rollcall/RH0780131",
-		"mask": "none",
+		"mask": "light",
 		"weight": 2
 	},
         {
@@ -596,7 +596,7 @@
 		"title": "Key Votes: Violent Crime Control And Law Enforcement Act Of 1994",
 		"caption": "Sponsored by later-President Joe Biden, this measure primarily sought to provide state funding for more police officers and prisons in an effort to curb violent crime. ",
 		"link": "/rollcall/RH1030916",
-		"mask": "medium",
+		"mask": "light",
 		"weight": 2
 	},
         {
@@ -636,7 +636,7 @@
 		"title": "Key Votes: The 13th Amendment",
 		"caption": "Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.",
 		"link": "/rollcall/RH0390423",
-		"mask": "strong",
+		"mask": "medium",
 		"weight": 2
 	},
         {
@@ -732,7 +732,7 @@
 		"title": "Key Votes: Don't Ask Don't Tell, Repeal Act of 2010",
 		"caption": "This law repealed the 'Don't Ask Don't Tell' policy in the Clinton Administration that barred 'out' homosexual men from serving in the military.",
 		"link": "/rollcall/RH1111621",
-		"mask": "light",
+		"mask": "medium",
 		"weight": 2
 	},
         {
@@ -740,7 +740,7 @@
 		"title": "Key Votes: Confirm Gerald Ford As Vice President",
 		"caption": "As disgraced former VP Spiro Agnew resigned in 1973, the Senate confirmed Congressman Gerald Ford to take his place as Nixon's right-hand man.",
 		"link": "/rollcall/RH0930468",
-		"mask": "light",
+		"mask": "medium",
 		"weight":  2
 	},
         {
@@ -844,7 +844,7 @@
 		"title": "Key Votes: STOCK Act",
 		"caption": "In 2012, all but three Senators voted to ban members of Congress from insider trading.",
 		"link": "/rollcall/RS1120249",
-		"mask": "medium",
+		"mask": "light",
 		"weight": 2
 	},
         {
@@ -860,7 +860,7 @@
 		"title": "Key Votes: Abolition of The Communist Party",
 		"caption": "In 1955, it was declared that the Communist Party (CPUSA) was not a political party but a conspiracy to overthrow the U.S. Government.",
 		"link": "/rollcall/RS0830246",
-		"mask": "light",
+		"mask": "medium",
 		"weight": 2
 	},
         {
@@ -892,7 +892,7 @@
 		"title": "Key Votes: For The People Act",
 		"caption": "With the exception of abstentions, this comprehensive voting-rights package was passed by the House through a party-line vote.",
 		"link": "https://voteview.com/rollcall/RH1160117",
-		"mask": "strong",
+		"mask": "light",
 		"weight": 2
 	},
         {
@@ -908,7 +908,7 @@
 		"title": "Key Votes: Border Security And Immigration Act Of 2018",
 		"caption": "Though rejected by the House, this bill would have brought about the border wall President Trump advertised in his campaign.",
 		"link": "/rollcall/RH1151004",
-		"mask": "none",
+		"mask": "medium",
 		"weight": 2
 	},
         {
@@ -1072,7 +1072,7 @@
 		"weight": 2
 	},
         {
-		"image": "scotus.png",
+		"image": "scotus-1869.png",
 		"title": "Key Votes: Nine Supreme Court Justices",
 		"caption": "IN 1869, the Senate voted to expand the size of the Supreme Court to 9, where it has been ever since.",
 		"link": "/rollcall/RH0410043",
@@ -1344,7 +1344,7 @@
 		"weight": 2
 	},
         {
-		"image": "manchin.png",
+		"image": "joe-manchin.png",
 		"title": "Joe Manchin",
 		"caption": "See the voting record Sen. Joe Manchin, one of the most moderate members of the current Democratic Caucus.",
 		"link": "/person/40915/joe-manchin-iii",
