@@ -1,8 +1,4 @@
 [
-    {
-		"image": "jeff",
-		"title": "jeff's slide"
-	},
 	{  
 		"image": "mccarthy_elected_speaker.jpg",
 	        "title": "Kevin McCarthy Wins the Speakership after 15 ballots",
@@ -24,6 +20,7 @@
 		"title": "In the News: Senate agrees ex-officials can be tried",
 		"caption": "Sen. Rand Paul's motion to hold that the Senate cannot try an impeached official who is no longer in office was defeated 55-45. Most legal scholars agree such a trial is permissible.",
 		"link": "/rollcall/RS1170008",
+		"mask": "medium",
 		"weight": 5
 	},
 	{
@@ -31,7 +28,7 @@
 		"title": "Key Votes: Rep. Greene removed from House committees",
 		"caption": "Rep. Marjorie Taylor Greene (R-GA) was removed from House committee appointments via a mostly party-line vote after media coverage of statements she made over the last few years, including instances where she falsely claimed the September 11th attacks, Christchurch Mosque Shootings, murder of Heather Heyer, and school shootings across America were all fake.",
 		"link": "/rollcall/RS1170024",
-		"mask": "medium",
+		"mask": "light",
 		"weight": 5
 	},
 	{
@@ -39,6 +36,7 @@
 		"title": "Key Votes: Congress rejects Hawley objection, certifies 2020 election results",
 		"caption": "Hours after armed rioters storm the U.S. capitol to demand the 2020 presidential election be overturned, 7 Senators vote in support of their demands",
 		"link": "/rollcall/RS1170002",
+		"mask": "medium",
 		"weight": 5
 	},
 	{
@@ -97,11 +95,11 @@
 		"mask": "light"
 	},
 	{
-		"image": "118th_senate.jpg", 
+		"image": "senate-committee.png", 
 		"title": "The 118th Congress: Senate", 
-		"caption": "Visualize the 115th Senate and its members, compare it with the past", 
+		"caption": "Visualize the 118th Senate and its members, compare it with the past", 
 		"link": "/congress/senate",
-		"mask": "light",
+		"mask": "none",
 		"weight": 1
 	},
 	{
@@ -131,7 +129,7 @@
 		"image": "speaker_grid.jpg",
 		"title": "Speakers of the House",
 		"caption": "Explore the vote records of the 55 men and women who have served as Speaker of the House",
-		"mask": "medium",
+		"mask": "light",
 		"link": "/search/speakers%20of%20the%20house",
 		"weight": 4
 	},
@@ -148,6 +146,7 @@
 		"link": "/rollcall/RS0800019",
 		"title": "Key Votes: 22nd Amendment",
 		"caption": "The 22nd Amendment, which established term limits for the Presidency of the United States, passed with some bipartisan support.",
+		"mask": "medium",
 		"weight": 4
 	},
 	{
@@ -155,14 +154,16 @@
 		"link": "/rollcall/RH0050107",
 		"title": "Key Votes: Sedition Act of 1798",
 		"caption": "Under the direction of President John Adams, the Congress passed the Sedition Act of 1798, which made it a criminal offence to publish statements critical of the federal government. The first individual to be tried under the law was Rep. Matthew Lyon, who unsurprisingly had voted against its passage. Lyon was re-elected from jail.",
-		"weight": 4
+		"weight": 4,
+		"mask": "strong"
 	},
 	{
 		"image": "leach.jpg",
 		"link": "/rollcall/RH1060274",
 		"title": "Key Votes: Gramm-Leach-Bliley Ends Glass-Steagall",
 		"caption": "In 1999, Congress repealed the 65 year old Glass-Steagall provisions, which required banks to separate investments and deposits. Critics allege this led to risky investment practices, and subsequently the 2008 financial crisis.",
-		"weight": 4
+		"weight": 4,
+		"mask": "light"
 	},
 	{
 		"image": "era.jpg",
@@ -230,7 +231,7 @@
 		"caption": "Although confirmed 92-7, Rockefeller did not make an impact as Vice President and subsequently withdrew from President Ford's re-election ticket.",
 		"link": "/rollcall/RS0931092",
 		"weight": 2,
-		"mask": "light"
+		"mask": "medium"
 	},
 	{
 		"image": "ford_confirmation.jpg",
@@ -316,7 +317,8 @@
 		"title": "The First Congress",
 		"caption": "Learn about the factions and members of the first United States Congress",
 		"link": "/congress/house/1",
-		"weight": 1 
+		"weight": 1,
+		"mask": "light"
 	},
 	{
 		"image": "alaska.jpg",
@@ -344,7 +346,7 @@
 		"title": "Key Votes: The 26th Amendment",
 		"caption": "The U.S. Senate unanimously voted to pass what would become the 26th Amendment, lowering the voting age to 18.",
 		"link": "/rollcall/RS0920012",
-		"mask": "light",
+		"mask": "medium",
 		"weight": 4
 	},
 	{
