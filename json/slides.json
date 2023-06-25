@@ -1,11 +1,7 @@
 [
-    {
-		"image": "jeff",
-		"title": "jeff's slide"
-	},
 	{  
 		"image": "mccarthy_elected_speaker.jpg",
-	    "title": "Kevin McCarthy Wins the Speakership after 15 ballots",
+	        "title": "Kevin McCarthy Wins the Speakership after 15 ballots",
 		"caption": "Kevin McCarty of California is elected Speaker of the House on January 7, 2023, four days and 15 ballots the election of the speaker began at the start of the 118th Congress.",
 		"link": "/rollcall/RH1180019",
 		"mask": "medium",
@@ -24,14 +20,15 @@
 		"title": "In the News: Senate agrees ex-officials can be tried",
 		"caption": "Sen. Rand Paul's motion to hold that the Senate cannot try an impeached official who is no longer in office was defeated 55-45. Most legal scholars agree such a trial is permissible.",
 		"link": "/rollcall/RS1170008",
+		"mask": "medium",
 		"weight": 5
 	},
 	{
 		"image": "mtg_ad.jpg",
-		"title": "In the News: Rep. Greene removed from House committees",
+		"title": "Key Votes: Rep. Greene removed from House committees",
 		"caption": "Rep. Marjorie Taylor Greene (R-GA) was removed from House committee appointments via a mostly party-line vote after media coverage of statements she made over the last few years, including instances where she falsely claimed the September 11th attacks, Christchurch Mosque Shootings, murder of Heather Heyer, and school shootings across America were all fake.",
 		"link": "/rollcall/RS1170024",
-		"mask": "medium",
+		"mask": "light",
 		"weight": 5
 	},
 	{
@@ -39,6 +36,7 @@
 		"title": "Key Votes: Congress rejects Hawley objection, certifies 2020 election results",
 		"caption": "Hours after armed rioters storm the U.S. capitol to demand the 2020 presidential election be overturned, 7 Senators vote in support of their demands",
 		"link": "/rollcall/RS1170002",
+		"mask": "medium",
 		"weight": 5
 	},
 	{
@@ -97,24 +95,24 @@
 		"mask": "light"
 	},
 	{
-		"image": "115th_senate.jpg", 
-		"title": "The 115th Congress: Senate", 
-		"caption": "Visualize the 115th Senate and its members, compare it with the past", 
+		"image": "senate-committee.png", 
+		"title": "The 118th Congress: Senate", 
+		"caption": "Visualize the 118th Senate and its members, compare it with the past", 
 		"link": "/congress/senate",
-		"mask": "light",
+		"mask": "none",
 		"weight": 1
 	},
 	{
-		"image": "115th_house.jpg", 
-		"title": "The 115th Congress: House of Representatives", 
-		"caption": "Visualize the 115th House of Representatives and its members, compare it with the past", 
+		"image": "118th_house.jpg", 
+		"title": "The 118th Congress: House of Representatives", 
+		"caption": "Visualize the 118th House of Representatives and its members, compare it with the past", 
 		"link": "/congress/house",
 		"weight": 1
 	},
 	{
 		"image": "senate_grid.jpg",
 		"title": "Visualize the Senate",
-		"caption": "Visualize the 117th Senate and its members, and compare it with past congresses",
+		"caption": "Visualize the 118th Senate and its members, and compare it with past congresses",
 		"mask": "medium",
 		"link": "/congress/senate",
 		"weight": 20
@@ -122,7 +120,7 @@
 	{
 		"image": "house_grid.jpg",
 		"title": "Visualize the House",
-		"caption": "Visualize the 117th House and its members, and compare it with past congresses",
+		"caption": "Visualize the 118th House and its members, and compare it with past congresses",
 		"mask": "medium",
 		"link": "/congress/house",
 		"weight": 20
@@ -130,8 +128,8 @@
 	{
 		"image": "speaker_grid.jpg",
 		"title": "Speakers of the House",
-		"caption": "Explore the vote records of the 54 men and women who have served as Speaker of the House",
-		"mask": "medium",
+		"caption": "Explore the vote records of the 55 men and women who have served as Speaker of the House",
+		"mask": "light",
 		"link": "/search/speakers%20of%20the%20house",
 		"weight": 4
 	},
@@ -148,6 +146,7 @@
 		"link": "/rollcall/RS0800019",
 		"title": "Key Votes: 22nd Amendment",
 		"caption": "The 22nd Amendment, which established term limits for the Presidency of the United States, passed with some bipartisan support.",
+		"mask": "medium",
 		"weight": 4
 	},
 	{
@@ -155,14 +154,16 @@
 		"link": "/rollcall/RH0050107",
 		"title": "Key Votes: Sedition Act of 1798",
 		"caption": "Under the direction of President John Adams, the Congress passed the Sedition Act of 1798, which made it a criminal offence to publish statements critical of the federal government. The first individual to be tried under the law was Rep. Matthew Lyon, who unsurprisingly had voted against its passage. Lyon was re-elected from jail.",
-		"weight": 4
+		"weight": 4,
+		"mask": "strong"
 	},
 	{
 		"image": "leach.jpg",
 		"link": "/rollcall/RH1060274",
 		"title": "Key Votes: Gramm-Leach-Bliley Ends Glass-Steagall",
 		"caption": "In 1999, Congress repealed the 65 year old Glass-Steagall provisions, which required banks to separate investments and deposits. Critics allege this led to risky investment practices, and subsequently the 2008 financial crisis.",
-		"weight": 4
+		"weight": 4,
+		"mask": "light"
 	},
 	{
 		"image": "era.jpg",
@@ -230,7 +231,7 @@
 		"caption": "Although confirmed 92-7, Rockefeller did not make an impact as Vice President and subsequently withdrew from President Ford's re-election ticket.",
 		"link": "/rollcall/RS0931092",
 		"weight": 2,
-		"mask": "light"
+		"mask": "medium"
 	},
 	{
 		"image": "ford_confirmation.jpg",
@@ -242,14 +243,14 @@
 	{
 		"image": "sandra.jpg",
 		"title": "Key Votes: Sandra Day O'Connor, The First Female Justice",
-		"caption": "Despite opposition from conservative groups, Justice O'Connor was confirmed unanimously",
+		"caption": "Despite opposition from conservative groups, Justice O'Connor was confirmed unanimously.",
 		"link": "/rollcall/RS0970274",
 		"weight": 2	
 	},
 	{
 		"image": "lbj.jpg",
 		"title": "Lyndon B. Johnson: The Master of the Senate",
-		"caption": "Learn about LBJ's career in the Senate and explore key votes",
+		"caption": "Learn about LBJ's career in the Senate and explore key votes.",
 		"link": "/person/4979/lyndon-baines-johnson",
 		"weight": 1
 	},
@@ -316,12 +317,13 @@
 		"title": "The First Congress",
 		"caption": "Learn about the factions and members of the first United States Congress",
 		"link": "/congress/house/1",
-		"weight": 1 
+		"weight": 1,
+		"mask": "light"
 	},
 	{
 		"image": "alaska.jpg",
 		"title": "Alaska",
-		"caption": "Rep. Don Young has represented Alaska since 1973. Do you know who served before him?",
+		"caption": "Until his death in 2022, Rep. Don Young had represented Alaska since 1973. Do you know who served before him?",
 		"link": "/district/anchorage, ak 99501",
 		"weight": 2
 	},
@@ -344,7 +346,7 @@
 		"title": "Key Votes: The 26th Amendment",
 		"caption": "The U.S. Senate unanimously voted to pass what would become the 26th Amendment, lowering the voting age to 18.",
 		"link": "/rollcall/RS0920012",
-		"mask": "light",
+		"mask": "medium",
 		"weight": 4
 	},
 	{
@@ -397,7 +399,8 @@
 		"title": "Key Votes: Establish Yellowstone National Park (1872)",
 		"caption": "The 42nd Congress voted 115-65 to establish Yellowstone, America's first national park -- despite concerns surrounding federalism",
 		"link": "/rollcall/RH0420165",
-		"weight": 4
+		"weight": 4,
+		"mask": "light"
 	},
 	{
 		"image": "confederate_cabinet.jpg",
@@ -508,7 +511,7 @@
 		"title": "Key Votes: Creation of the Tennessee Valley Authority",
 		"caption": "The creation of the TVA, a cornerstone of the New Deal, constituted a massive public works investment in the construction of dams and the electrification of Tennesssee, Kentucky, Mississippi, and Alabama",
 		"link": "/rollcall/RH0730036",
-		"mask": "light",
+		"mask": "medium",
 		"weight": 1
 	},
 	{
@@ -540,7 +543,7 @@
 		"title": "Hubert Humphrey",
 		"caption": "In 1949, U.S. Senator Hubert Humphrey called for the abolition of the filibuster in order to advance civil rights bills; as Senate Majority Whip, he advanced civil rights bills; as a Senator in 1975, he voted to lower the threshold to break a filibuster from 67 votes to 60.",
 		"link": "/person/4728/hubert-horatio-humphrey-jr",
-		"mask": "strong",
+		"mask": "light",
 		"weight": 2
 	},
 	{
@@ -548,8 +551,823 @@
 		"title": "Key Votes: Lower the Cloture Threshold from 67 to 60",
 		"caption": "On March 7th, 1975, in a bipartisan vote, the U.S. Senate voted to amend Rule XXII (which governs the end of debate, and thus filibustering) to lower the threshold for cloture from 67 to 60 votes.",
 		"link": "/rollcall/RS0940055",
+		"mask": "medium",
+		"weight": 2
+	},
+	{
+		"image": "debt.png",
+		"title": "Key Votes: Fiscal Responsibilty Act of 2023",
+		"caption": "President Joe Biden and House Speaker Kevin McCarthy make a historic compromise to prevent a default on the national debt. ",
+		"link": "/rollcall/RH1180242",
+		"mask": "medium",
+		"weight": 2
+	},
+	{
+		"image": "native-americans.png",
+		"title": "Key Votes: Indian Removal Act",
+		"caption": "President Andrew Jackson narrowly passed a bill forcing all American Indians East of the Mississippi River to be relocated West.",
+		"link": "/rollcall/RH0210026",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "iraq-war2.png",
+		"title": "Key Votes: Authorization For Use Of Military Force Against Iraq Of 2002",
+		"caption": "Due to suspicions that Iraqi President Saddam Hussein possessed weapons of mass destruction, the U.S. voted to invade the Middle Eastern nation in 2002. ",
+		"link": "/rollcall/RH1070961",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "japan-war.png",
+		"title": "Key Votes: Declaration Of War On Japan",
+		"caption": "After the attack on Pearl Harbor in 1941, the U.S. Congress voted nearly unanimously to declare war on Japan.",
+		"link": "/rollcall/RH0770077",
+		"weight": 2
+	},
+        {
+		"image": "wwii-memorial.png",
+		"title": "Key Votes: G.I. Bill",
+		"caption": "Near the conclusion of the Second World War, President Roosevelt signed a comprehensive package to economically aid returning veterans. ",
+		"link": "/rollcall/RH0780131",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "biden-crime.png",
+		"title": "Key Votes: Violent Crime Control And Law Enforcement Act Of 1994",
+		"caption": "Sponsored by later-President Joe Biden, this measure primarily sought to provide state funding for more police officers and prisons in an effort to curb violent crime. ",
+		"link": "/rollcall/RH1030916",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "ketanji.png",
+		"title": "Key Votes: Kentanji Brown Jackson Confirmed",
+		"caption": "The U.S. Senate Confirmed Ketanji Brown Jackson as an Associate Justice on the Supreme Court",
+		"link": "/rollcall/RS1170654",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "watergate.png",
+		"title": "Key Votes: Authorization Of The Printing Of The Report Reccomending Impeachment Of President Richard M. Nixon",
+		"caption": "The House Of Represntatives Authorized the Judiciary to go forward with Nixon's impeachment.",
+		"link": "/rollcall/RH0930906",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "chinese-workers.png",
+		"title": "Key Votes: Chinese Exclusion Act Of 1882",
+		"caption": "Congress authorized the prohibition of immigration to America from China; the first bill to ban immigration from any foreign country.",
+		"link": "/rollcall/RH0470083",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "hawaii.png",
+		"title": "Key Votes: Joint Resolution To Provide For Annexing The Hawaiian Islands",
+		"caption": "In 1898, the U.S. invaded Hawaii, overthrowing the monarchy and installing a provisional puppet government.",
+		"link": "/rollcall/RH0550135",
+		"mask": "none",
+		"weight": 2
+	},
+        {
+		"image": "slaves.png",
+		"title": "Key Votes: The 13th Amendment",
+		"caption": "Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.",
+		"link": "/rollcall/RH0390423",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "gingrich.png",
+		"title": "Newt Gingrich, Former Speaker",
+		"caption": "Look at the consequential career of former house speaker Newt Gingirch, who served from 1995 to 1998.",
+		"link": "/person/14627/newton-leroy-gingrich",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "mitch-mcconnell.png",
+		"title": "Sen. Mitch McConnell",
+		"caption": "Learn about the current Senate Republican Leader who has played an important role in Congress through four Presidential Administriaitions.",
+		"link": "/person/14921/addison-mitchell-mitch-mcconnell",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "slave-ships.png",
+		"title": "Key Votes: Act Prohibiting Importation Of Slaves",
+		"caption": "After permitted by the Constitution in 1808, Congress was quick to ban the importation of slaves from Africa. ",
+		"link": "/rollcall/RH0090131",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "dream-act.png",
+		"title": "Key Votes: DREAM Act",
+		"caption": "Read about how the Democratic immigration law was defeated by the Senate filibuster. ",
+		"link": "/rollcall/RH1170090",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "reagan.png",
+		"title": "Key Votes: Tax Reform Act of 1986",
+		"caption": "As a cornerstone of his neoliberal policies, President Reagan lowered taxes on private individuals and corporations. ",
+		"link": "/rollcall/RS0990506",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "george-w-bush.png",
+		"title": "Key Votes: Jobs Growth and Tax Reconciliation Act",
+		"caption": "Commonly known as the Bush Tax Cuts, this package lowered income taxes and created a child tax credit. ",
+		"link": "/rollcall/RH1080181",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "taney.png",
+		"title": "Key Votes: Confirmation Of Chief Justice Roger B. Taney",
+		"caption": "In 1836, Roger B. Taney, the infamous author of the Dred Scott case, was confirmed by the Senate as Chief Justice.  ",
+		"link": "/rollcall/RS0240040",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "space-force.png",
+		"title": "Key Votes: National Defense Authorization Act For Fiscal Year 2020",
+		"caption": "Apart from authorizing the military budget for the following year, this bill also created the controversial Space Force. ",
+		"link": "/rollcall/RH1160671",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "slaves-running-away.png",
+		"title": "Key Votes: Fugitive Slave Act of 1850",
+		"caption": "Near the end of the antebellum, Congress passed this law enforcing that escaped slaves in free states must be promplty returned to their masters. ",
+		"link": "/rollcall/RS0310243",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "civil-war.png",
+		"title": "Key Votes: Declaration of Aims of The Civil War",
+		"caption": "On July 25,1861, Congress declared that the purpose of the Civil War was the preservation of the union rather than the abolition of slavery. ",
+		"link": "/rollcall/RS0370067",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "union.png",
+		"title": "Key Votes: Taft-Hartley Act",
+		"caption": "While vetoed by President Truman, Congress overrode this veto to restrict the powers of labor unions.",
+		"link": "/rollcall/RH0800026",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "dont-ask.png",
+		"title": "Key Votes: Don't Ask Don't Tell, Repeal Act of 2010",
+		"caption": "This law repealed the 'Don't Ask Don't Tell' policy in the Clinton Administration that barred 'out' homosexual men from serving in the military.",
+		"link": "/rollcall/RH1111621",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "ford-vp.png",
+		"title": "Key Votes: Confirm Gerald Ford As Vice President",
+		"caption": "As disgraced former VP Spiro Agnew resigned in 1973, the Senate confirmed Congressman Gerald Ford to take his place as Nixon's right-hand man.",
+		"link": "/rollcall/RH0930468",
+		"mask": "medium",
+		"weight":  2
+	},
+        {
+		"image": "samuel-chase.png",
+		"title": "Key Votes: Impeachment Of Justice Samuel Chase",
+		"caption": "In 1804, the House impeached a Supreme Court Justice for the first time. His acquital in the Senate set a precedent of judicial independence from the legislature.",
+		"link": "/rollcall/RH0080124",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "impeach.png",
+		"title": "Key Votes: Conviction Of Judge Harry Claiborne",
+		"caption": "In 1986, Harry Claiborne was impeached by the House and convicted by the Senate, marking the last time a federal official was impeached and removed from office.",
+		"link": "/rollcall/RS0990716",
+		"mask": "medium",
+		"weight": 2
+	},
+         {
+		"image": "clarence-thomas.png",
+		"title": "Key Votes: Confirmation Of Associate Justice Clarence Thomas",
+		"caption": "Often known as the most conservative justice on the current Court, look at how Clarence Thomas was confirmed by the Senate.",
+		"link": "/rollcall/RS1020220",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "hawaii.png",
+		"title": "Key Votes: Statehood of Hawaii",
+		"caption": "As the most recent admission into the union, see how the Senate created the 50th state.",
+		"link": "/rollcall/RS0860021",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "qadaffi.png",
+		"title": "Key Votes: Authorization Of U.S. Action In Libya",
+		"caption": "In support of NATO's mission to overthrow Libyan President Muammar Gadaffi, the House approved the United States military to take limited actions in the North African nation.",
+		"link": "/rollcall/RH1120489",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "oil-ship.png",
+		"title": "Key Votes: Expansion Of Sanctions On Iran",
+		"caption": "Due to the supposed nuclear program of the Iranian military all but 11 members of the House voted to increase economic sanctions on the Middle Eastern nation.",
+		"link": "/rollcall/RH1120923",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "bush-2004.png",
+		"title": "Key Votes: 2005 Objection To Electoral Vote Count In Ohio",
+		"caption": "For the first time since 1969, members of Congress sought to overturn state results of a Presidential Election.",
+		"link": "/rollcall/RH1090006",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "nixon-1968.png",
+		"title": "Key Votes: 1969 Objection To Electoral Vote Count In North Carolina",
+		"caption": "For the first time in the nation's history, members of Congress sought to overturn state results of a Presidential Election.",
+		"link": "/rollcall/RH0910007",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "stop-asian-hate.png",
+		"title": "Key Votes: Condemning All Forms Of Anti-Asian Sentiment As Related To COVID-19.",
+		"caption": "With increased Anti-Asian sentiment after the impacts of the COVID-19 Pandemic, a majority of Representatives voted to condemn all of its forms.",
+		"link": "/rollcall/RH1160892",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "lyon.png",
+		"title": "Key Votes: Explusion Of Matthew Lyon",
+		"caption": "Read about the first time a Representative was expelled from the chamber.",
+		"link": "/rollcall/RH0050144",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "trump-mask.png",
+		"title": "Key Votes: Families First Coronavirus Response Act",
+		"caption": "At the beginning of the COVID-19 Pandemic, Congress required employers to expand sick and family leave for their employees.",
+		"link": "/rollcall/RH1160801",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "john-tower.png",
+		"title": "Key Votes: John Tower Rejected For Defense",
+		"caption": "Nearly through a party-line vote, the elder Bush's nominee was the last cabinet official to be rejected by the Senate.",
+		"link": "/rollcall/RS1010020",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "stocks.png",
+		"title": "Key Votes: STOCK Act",
+		"caption": "In 2012, all but three Senators voted to ban members of Congress from insider trading.",
+		"link": "/rollcall/RS1120249",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "cooperation.png",
+		"title": "Key Votes: The International Cooperation Act",
+		"caption": "After the end of the Cold War, Congress refused a bill increasing U.S. economic cooperation with foreign countries.",
+		"link": "/rollcall/RH1020341",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "cpusa.png",
+		"title": "Key Votes: Abolition of The Communist Party",
+		"caption": "In 1955, it was declared that the Communist Party (CPUSA) was not a political party but a conspiracy to overthrow the U.S. Government.",
+		"link": "/rollcall/RS0830246",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "freedmen-buerau.png",
+		"title": "Key Votes: Civil Rights Act of 1866",
+		"caption": "After the Civil War, the Federal Government passed this bill giving native-born black Americans citizenship, regardless of whether they had been enslaved.",
+		"link": "/rollcall/RH0390115",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "old-people.png",
+		"title": "Key Votes: Social Security Act",
+		"caption": "As part of the New Deal, President Franklin D. Roosevelt established the Social Security pension system for retired Americans.",
+		"link": "/rollcall/RH0740039",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "refugees.png",
+		"title": "Key Votes: Comprehensive Immgiration Reform Act of 2006",
+		"caption": "Most strikingly, this bill made it a felony to be in the United States illegally.",
+		"link": "/rollcall/RS1090523",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "voted-stickers.png",
+		"title": "Key Votes: For The People Act",
+		"caption": "With the exception of abstentions, this comprehensive voting-rights package was passed by the House through a party-line vote.",
+		"link": "https://voteview.com/rollcall/RH1160117",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "ilhan.png",
+		"title": "Key Votes: Condemnation Of President Trump's Racist Comments Directed At Members Of Congress",
+		"caption": "Four Republicans broke with their party's leader after he advised four Democratic Congresswomen to 'go back to their countries.'",
+		"link": "/rollcall/RH1160481",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "trump-wall.png",
+		"title": "Key Votes: Border Security And Immigration Act Of 2018",
+		"caption": "Though rejected by the House, this bill would have brought about the border wall President Trump advertised in his campaign.",
+		"link": "/rollcall/RH1151004",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "keystone.png",
+		"title": "Key Votes: Keystone XL Pipeline",
+		"caption": "With support across both parties, this bill fell short of the 60 votes needed to bypass the Senate filibuster.",
+		"link": "/rollcall/RS1130571",
+		"mask": "",
+		"weight": 2
+	},
+        {
+		"image": "trump-tax-cuts.png",
+		"title": "Key Votes: Tax Cuts And Jobs Act",
+		"caption": "This bill passed in 2017 is, by some records, the largest tangible impact of the Trump Administration.",
+		"link": "/rollcall/RH1150636",
 		"mask": "strong",
 		"weight": 2
+	},
+        {
+		"image": "spiro-agnew.png",
+		"title": "Key Votes: Abolish The Vice Presidency",
+		"caption": "In a rarely-discussed vote in 1803, many federalists sought to abolish the second-highest office in the country.",
+		"link": "/rollcall/RH0080019",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "cia-covert.png",
+		"title": "Key Votes: Abolish Covert Actions of the CIA",
+		"caption": "While limited in number, several senators from across the political spectrum voted to abolish covert operations by the agency in the midst of the Cold War.",
+		"link": "/rollcall/RS0931016",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "bombing-jerusalem.png",
+		"title": "Key Votes: Condemnation Of Jerusalem Market Bombing",
+		"caption": "Rep Ron Paul of Texas was the only member of Congress to vote against the resolution.",
+		"link": "/rollcall/RH1050345",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "america-will-prevail.png",
+		"title": "Key Votes: Declaring That The United States Will Prevail In The War On Terror",
+		"caption": "Most Republicans and few Democrats voted for the resolution committing to a U.S. victory in various Middle Eastern wars.",
+		"link": "/rollcall/RH1090955",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "america-china-war.png",
+		"title": "Key Votes: Rejection Of China UN Membership",
+		"caption": "In 1956, the House unanimously voted to refuse UN Membership to Mao's China.",
+		"link": "/rollcall/RH0840132",
+		"mask": "strong",
+		"weight": 2
+	},
+        {
+		"image": "pledge.png",
+		"title": "Key Votes: Constitutional Amendment For School Prayer",
+		"caption": "With only 56 votes, the controversial amendment did not achieve the supermajority it needed for ratification.",
+		"link": "/rollcall/RS0980405",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "fentanyl.png",
+		"title": "In The News: Congress Responds To Crisis With HALT Fentanyl Act",
+		"caption": "With powerful opiate fentanyl killing many Americans, Congress gave law enforcement the proper tools to fight the epicdemic.",
+		"link": "/rollcall/RH1180236",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "placenta.png",
+		"title": "Key Votes: Partial-Birth Abortion Ban Act",
+		"caption": "This controversial procedure was banned by the Federal Government in 2003.",
+		"link": "/rollcall/RS1080051",
+		"mask": "strong",
+		"weight": 2
+	},
+        {
+		"image": "hastert.png",
+		"title": "Key Votes: Hastert Becomes Speaker",
+		"caption": "Look at the election of Dennis Hastert, the highest-ranking federal official to ever serve a prison sentence.",
+		"link": "/rollcall/RH1060001",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "army-women.png",
+		"title": "Key Votes: Abolish The Womens' Army Corps",
+		"caption": "Crossing both party lines and ideological boundaries, this highly controversial resolution ended in a tie in the Senate.",
+		"link": "/rollcall/RS0951040",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "biden-kamala-mask.png",
+		"title": "Key Votes: American Rescue Plan",
+		"caption": "Look at how the House voted to approve President Biden's package responding to the effects of COVID-19.",
+		"link": "/rollcall/RH1170048",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "diverse-students.png",
+		"title": "Key Votes: No Race, Sex, Or Creed Quotas",
+		"caption": "As a precursor to debates over affirmative action, this bill which passed the House banned educational institutions from putting a cap on the number of students it accepts from a certain demographic.",
+		"link": "/rollcall/RH0960315",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "homestead.png",
+		"title": "Key Votes: Homestead Act",
+		"caption": "Passed in 1862, this bill would encourage Westward Expansion by providing settlers with land to farm.",
+		"link": "/rollcall/RS0370282",
+		"mask": "strong",
+		"weight": 2
+	},
+        {
+		"image": "execution.png",
+		"title": "Key Votes: Death Penalty For Rebels",
+		"caption": "In the midst of the Civil War, nine representatives voted in favor of the execution of all those who sided with the Confederacy.",
+		"link": "/rollcall/RH0370235",
+		"mask": "none",
+		"weight": 2
+	},
+        {
+		"image": "freedmen-buerau.png",
+		"title": "Key Votes: Grant Freedmen 80 Acres Of Land",
+		"caption": "If passed, this bill would have granted each and every slave freed from the confederacy 80 acres of land to farm. After the entire Democratic caucus voted to strike it down, it was not made into law.",
+		"link": "/rollcall/RH0370229",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "havana-cuba.png",
+		"title": "Key Votes: 1899 Treaty With Spain",
+		"caption": "If passed, this treaty would have given Cuba to the United States. The Senate rejected it 53-30.",
+		"link": "/rollcall/RS0550348",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "cambodia.png",
+		"title": "Key Votes: Limit Involvement In Cambodia",
+		"caption": "Proposed by Sen. Dole of Kansas, this resolution would have limited U.S. bombing of Cambodia during the Vietnam War.",
+		"link": "/rollcall/RS0910383",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "reagan-suharto.png",
+		"title": "Key Votes: Prohibition Of Aid To Indonesia",
+		"caption": "When the islands were under the rule of military dictator Suharto, 55 representatives voted to ban sending U.S. dollars to Indonesia.",
+		"link": "/rollcall/RH0970324",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "scotus-1869.png",
+		"title": "Key Votes: Nine Supreme Court Justices",
+		"caption": "IN 1869, the Senate voted to expand the size of the Supreme Court to 9, where it has been ever since.",
+		"link": "/rollcall/RH0410043",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "levine.png",
+		"title": "Key Votes: Opposing Armed Forces' Transgender Ban",
+		"caption": "In 2019, the House Democratic caucus as well as some Republican members expressed opposition to President Trump's ban of transgender people in the armed forces.",
+		"link": "/rollcall/RH1160134",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "gay-biz.png",
+		"title": "Key Votes: LGBTQ Business Equal Enforcement And Investment Act",
+		"caption": "This bill would have required financial institutions to provide equal credit to businesses owned by LGBTQ and non-LGBTQ individuals.",
+		"link": "/rollcall/RH1170181",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "lebanon.png",
+		"title": "Key Votes: Military Presence In Lebanon",
+		"caption": "During Middle East conflicts in the 1980's, Congress authorized U.S. forces to remain in Lebanon until all foreign militaries were withdrawn.",
+		"link": "/rollcall/RH0980342",
+		"mask": "strong",
+		"weight": 2
+	},
+        {
+		"image": "home-loan-bank.png",
+		"title": "Key Votes: Create Federal Home Loan Banks",
+		"caption": "Accompanying President Roosevelt's New Deal, Congressman Walcott proposed the Federal Government establish home loan banks. The measure narrowly passed the Senate.",
+		"link": "/rollcall/RS0720201",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "san-francisco.png",
+		"title": "Who Represents My City?: San Francisco?",
+		"caption": "See who represents the city of San Francisco in the House and Senate.",
+		"link": "/district/San%20Francisco",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "seattle.png",
+		"title": "Who Represents My City?: Seattle",
+		"caption": "See who represents the city of Seattle in the House and Senate.",
+		"link": "/district/seattle",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "san-antonio.png",
+		"title": "Who Represents My City?: San Antonio",
+		"caption": "See who represents the city of San Antonio in the House and Senate.",
+		"link": "/district/san%20antonio",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "cincinnati.png",
+		"title": "Who Represents My City?: Cincinnati",
+		"caption": "See who represents the city of Cincinnati in the House and Senate.",
+		"link": "/district/cincinnati",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "vegas.png",
+		"title": "Who Represents My City? Las Vegas",
+		"caption": "See who represents the city of Las Vegas in the House and Senate.",
+		"link": "/district/las%20vegas",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "syracuse.png",
+		"title": "Who Represents My City?: Syracuse",
+		"caption": "See who represents the city of Syracuse in the House and Senate.",
+		"link": "/district/syracuse",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "boston-skyline.png",
+		"title": "Who Represents My City?: Boston",
+		"caption": "See who represents the city of Boston in the House and Senate.",
+		"link": "/district/boston",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "jacksonville.png",
+		"title": "Who Represents My City?: Jacksonville",
+		"caption": "See who represents the city of Jacksonville in the House and Senate.",
+		"link": "/district/Jacksonville",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "omaha.png",
+		"title": "Who Represents My City?: Omaha",
+		"caption": "See who represents the city of Omaha in the House and Senate.",
+		"link": "/district/omaha",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "honolulu.png",
+		"title": "Who Represents My City?: Honolulu",
+		"caption": "See who represents the city of Honolulu in the House and Senate.",
+		"link": "/district/honolulu",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "gop-hq.png",
+		"title": "The Republican Party",
+		"caption": "Read about the history of the 'Grand Old Party' in Congress.",
+		"link": "/parties/200/republican-party",
+		"mask": "none",
+		"weight": 2
+	},
+        {
+		"image": "blue.png",
+		"title": "The Democratic Party",
+		"caption": "Read about the Congressional history of the oldest political party in the world today.",
+		"link": "/parties/100/democratic-party",
+		"mask": "none",
+		"weight": 2
+	},
+        {
+		"image": "fetterman.png",
+		"title": "In The News: John Fetterman",
+		"caption": "From his unfortunate stroke to his endorsement of psychedelic mushrooms, PA Sen. John Fetterman's name is now widely known.",
+		"link": "/person/42301/john-karl-fetterman",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "santos.png",
+		"title": "In The News: George Santos",
+		"caption": "After being exposed for lying about various subjects, George Santos was put up to a vote for punishment by the chamber.",
+		"link": "/rollcall/RH1180216",
+		"mask": "none",
+		"weight": 2
+	},
+        {
+		"image": "hamilton.png",
+		"title": "The Federalist Party",
+		"caption": "Among the first political parties to exist in the nation, prominent members of the Federalist Party included John Adams and Alexander Hamilton.",
+		"link": "/parties/1/federalist-party",
+		"mask": "strong",
+		"weight": 2
+	},
+        {
+		"image": "jefferson.png",
+		"title": "The Democratic-Republican Party",
+		"caption": "Among the first political parties in America, prominent members of the Democratic-Republican Party included Thomas Jefferson and James Madison.",
+		"link": "/parties/13/democratic-republican-party",
+		"mask": "none",
+		"weight": 2
+	},
+        {
+		"image": "free-soil.png",
+		"title": "Free Soil Party",
+		"caption": "Between the fall of the Whigs and the rise of the Republicans, many anti-slavery Americans voted in favor of this minor party.",
+		"link": "/parties/300/free-soil-party",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "strom.png",
+		"title": "Sen. Strom Thurmond",
+		"caption": "See the votes of Strom Thurmond, infamous segregationist legislator and only centenarian to ever serve in the Senate.",
+		"link": "/person/99369/james-strom-thurmond",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "byrd.png",
+		"title": "Sen. Robert Byrd",
+		"caption": "See the votes of Robert Byrd, the longest-serving Senator of all time.",
+		"link": "/person/1366/robert-carlyle-byrd",
+		"mask": "strong",
+		"weight": 2
+	},
+        {
+		"image": "jesse-helms.png",
+		"title": "Sen. Jesse Helms",
+		"caption": "See the votes of Jesse Helms, one of the forefathers of modern conservatism.",
+		"link": "/person/14105/jesse-helms",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "bobby-rush.png",
+		"title": "Rep. Bobby Rush",
+		"caption": "Look at the Congressional career of former Black Panther Party member Bobby Rush.",
+		"link": "/person/29346/bobby-l-rush",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "barney-frank.png",
+		"title": "Rep. Barney Frank",
+		"caption": "Look at the votes of Rep. Barney Frank, the first 'out' gay member of Congress.",
+		"link": "/person/14824/barney-frank",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "calhoun.png",
+		"title": "John C. Calhoun",
+		"caption": "Here are the votes of John C. Calhoun, a political ally and former Vice President of Andrew Jackson.",
+		"link": "/person/1418/john-caldwell-calhoun",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "dick.png",
+		"title": "Dick Cheney",
+		"caption": "See the House career of Dick Cheney, who later went onto serve as Vice President under George W. Bush.",
+		"link": "/person/14611/richard-bruce-cheney",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "nancy-pelosi.png",
+		"title": "Nancy Pelosi",
+		"caption": "Look at the career of the first female Speaker of the House.",
+		"link": "/person/15448/nancy-pelosi",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "senator-obama.png",
+		"title": "Senator Obama",
+		"caption": "Before he was elected President, Barack Obama served as a U.S. Senator from Illinois.",
+		"link": "/person/40502/barack-obama",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "mike-pence.png",
+		"title": "Mike Pence",
+		"caption": "Look at the votes of former Vice President Mike Pence.",
+		"link": "/person/20117/mike-pence",
+		"mask": "none",
+		"weight": 2
+	},
+        {
+		"image": "bilbo.png",
+		"title": "Theodore Bilbo",
+		"caption": "Analyze the record of Mississipi Senator Theodore Bilbo, often remembered as one of the staunchest supporters of segregation.",
+		"link": "/person/710/theodore-gilmore-bilbo",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "aoc.png",
+		"title": "Alexandria-Ocasio-Cortez",
+		"caption": "Often known as 'AOC', the congresswoman from New York has been a key figure in the progressive wing of the Democratic Party, pushing for bold proposals such as Medicare For All and the Green New Deal.",
+		"link": "/person/21949/alexandria-ocasio-cortez",
+		"mask": "medium",
+		"weight": 2
+	},
+        {
+		"image": "joe-manchin.png",
+		"title": "Joe Manchin",
+		"caption": "See the voting record Sen. Joe Manchin, one of the most moderate members of the current Democratic Caucus.",
+		"link": "/person/40915/joe-manchin-iii",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "mitt-romney.png",
+		"title": "Mitt Romney",
+		"caption": "Look at the career of Mitt Romney, former Presidential candidate and current Republican Senator from Utah.",
+		"link": "/person/41902/willard-mitt-mitt-romney",
+		"mask": "light",
+		"weight": 2
+	},
+        {
+		"image": "capitol.png",
+		"title": "About This Site",
+		"caption": "VoteView enables you to view the numbers for every congressional vote in the history of the United States. It is currently maintained by the UCLA Department Of Political Science.",
+		"link": "https://voteview.com/about",
+		"mask": "light",
+		"weight": 15
 	}
 ]
 
