@@ -15,8 +15,22 @@ def git(*args):
     return subprocess.check_output(["git", *args], text=True).strip()
 
 
+def resolve_ref(ref):
+    """Return the first git ref that resolves: bare name, then origin/ prefix."""
+    for candidate in (ref, f"origin/{ref}"):
+        try:
+            subprocess.check_output(
+                ["git", "rev-parse", "--verify", candidate],
+                text=True, stderr=subprocess.DEVNULL,
+            )
+            return candidate
+        except subprocess.CalledProcessError:
+            pass
+    raise SystemExit(f"error: '{ref}' not found as a local or remote-tracking branch")
+
+
 def load_slides_from_ref(ref):
-    raw = git("show", f"{ref}:{SLIDES_PATH_FROM_REPO_ROOT}")
+    raw = git("show", f"{resolve_ref(ref)}:{SLIDES_PATH_FROM_REPO_ROOT}")
     return json.loads(raw)
 
 
