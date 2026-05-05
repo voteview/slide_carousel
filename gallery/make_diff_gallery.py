@@ -1,11 +1,12 @@
-"""Generate diff_gallery.html by comparing slides.json on the current branch to main."""
+"""Generate diff_gallery.html by comparing slides.json on any branch to a base branch."""
 
+import argparse
 import json
 import subprocess
 
 
 SLIDES_PATH = "../json/slides.json"
-MAIN_REF = "main"
+DEFAULT_BASE = "main"
 SLIDES_PATH_FROM_REPO_ROOT = "json/slides.json"
 OUTPUT = "diff_gallery.html"
 
@@ -14,14 +15,16 @@ def git(*args):
     return subprocess.check_output(["git", *args], text=True).strip()
 
 
-def load_branch_slides():
+def load_slides_from_ref(ref):
+    raw = git("show", f"{ref}:{SLIDES_PATH_FROM_REPO_ROOT}")
+    return json.loads(raw)
+
+
+def load_branch_slides(branch=None):
+    if branch is not None:
+        return load_slides_from_ref(branch)
     with open(SLIDES_PATH) as f:
         return json.load(f)
-
-
-def load_main_slides():
-    raw = git("show", f"{MAIN_REF}:{SLIDES_PATH_FROM_REPO_ROOT}")
-    return json.loads(raw)
 
 
 def diff_slides(main_slides, branch_slides):
@@ -188,7 +191,7 @@ details.unchanged-block .cards { margin-top: 12px; }
 <body>
 <h1>Slide Diff Gallery</h1>
 <div class="subtitle">
-    branch <strong id="branchName"></strong> compared to <strong>main</strong>
+    branch <strong id="branchName"></strong> compared to <strong id="baseName"></strong>
     &middot; <span id="mainCount"></span> on main, <span id="branchCount"></span> on branch
 </div>
 
@@ -226,6 +229,7 @@ const VOTEVIEW_BASE = 'https://voteview.com';
 const IMG_BASE = '../images/';
 
 document.getElementById('branchName').textContent = DATA.branch_name;
+document.getElementById('baseName').textContent = DATA.base_name;
 document.getElementById('mainCount').textContent = DATA.main_count;
 document.getElementById('branchCount').textContent = DATA.branch_count;
 document.getElementById('addedCount').textContent = DATA.added.length;
@@ -315,15 +319,16 @@ render('unchangedCards', DATA.unchanged, s => cardHtml(s, 'unchanged'), 'None.')
 """
 
 
-def build():
-    branch_name = git("rev-parse", "--abbrev-ref", "HEAD")
-    main_slides = load_main_slides()
-    branch_slides = load_branch_slides()
-    added, removed, modified, unchanged = diff_slides(main_slides, branch_slides)
+def build(branch=None, base=DEFAULT_BASE):
+    branch_name = branch if branch is not None else git("rev-parse", "--abbrev-ref", "HEAD")
+    base_slides = load_slides_from_ref(base)
+    branch_slides = load_branch_slides(branch)
+    added, removed, modified, unchanged = diff_slides(base_slides, branch_slides)
 
     data = {
         "branch_name": branch_name,
-        "main_count": len(main_slides),
+        "base_name": base,
+        "main_count": len(base_slides),
         "branch_count": len(branch_slides),
         "added": added,
         "removed": removed,
@@ -336,11 +341,27 @@ def build():
     with open(OUTPUT, "w") as f:
         f.write(html)
     print(
-        f"Wrote {OUTPUT}: branch={branch_name} "
+        f"Wrote {OUTPUT}: branch={branch_name} base={base} "
         f"added={len(added)} removed={len(removed)} "
         f"modified={len(modified)} unchanged={len(unchanged)}"
     )
 
 
 if __name__ == "__main__":
-    build()
+    parser = argparse.ArgumentParser(
+        description="Generate diff_gallery.html comparing a branch to a base branch."
+    )
+    parser.add_argument(
+        "--branch", "-b",
+        metavar="BRANCH",
+        default=None,
+        help="Branch (or ref) to compare (default: current working tree)",
+    )
+    parser.add_argument(
+        "--base",
+        metavar="BASE",
+        default=DEFAULT_BASE,
+        help=f"Base branch to compare against (default: {DEFAULT_BASE})",
+    )
+    args = parser.parse_args()
+    build(branch=args.branch, base=args.base)
