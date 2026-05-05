@@ -129,7 +129,7 @@ details.unchanged-block .cards { margin-top: 12px; }
 <body>
 <h1>Slide Diff Gallery</h1>
 <div class="subtitle">
-    branch <strong id="branchName"></strong> compared to <strong>main</strong>
+    branch <strong id="branchName"></strong> compared to <strong id="baseName"></strong>
     &middot; <span id="mainCount"></span> on main, <span id="branchCount"></span> on branch
 </div>
 
@@ -163,6 +163,7 @@ details.unchanged-block .cards { margin-top: 12px; }
 <script>
 const DATA = {
   "branch_name": "118th-119th-congress-slides",
+  "base_name": "main",
   "main_count": 174,
   "branch_count": 182,
   "added": [
@@ -1611,6 +1612,7 @@ const VOTEVIEW_BASE = 'https://voteview.com';
 const IMG_BASE = '../images/';
 
 document.getElementById('branchName').textContent = DATA.branch_name;
+document.getElementById('baseName').textContent = DATA.base_name;
 document.getElementById('mainCount').textContent = DATA.main_count;
 document.getElementById('branchCount').textContent = DATA.branch_count;
 document.getElementById('addedCount').textContent = DATA.added.length;
