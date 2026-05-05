@@ -555,6 +555,70 @@
 		"weight": 2
 	},
 	{
+		"image": "mccarthy_removed.png",
+		"title": "Key Votes: Kevin McCarthy Removed as Speaker",
+		"caption": "On October 3, 2023, Rep. Matt Gaetz's motion to vacate the chair succeeded 216-210, making Kevin McCarthy the first Speaker in U.S. history to be removed by a House vote.",
+		"link": "/rollcall/RH1180518",
+		"mask": "medium",
+		"weight": 4
+	},
+	{
+		"image": "mike_johnson_speaker.png",
+		"title": "Key Votes: Mike Johnson Elected Speaker",
+		"caption": "After three weeks without a Speaker and multiple failed bids, Rep. Mike Johnson of Louisiana was elected Speaker of the House on October 25, 2023.",
+		"link": "/rollcall/RH1180522",
+		"mask": "medium",
+		"weight": 4
+	},
+	{
+		"image": "george_santos.png",
+		"title": "Key Votes: George Santos Expelled from the House",
+		"caption": "Rep. George Santos (R-NY) was expelled from the House 311-114 on December 1, 2023 — only the third expulsion in House history — after being indicted on 23 federal counts.",
+		"link": "/rollcall/RH1180686",
+		"mask": "light",
+		"weight": 4
+	},
+	{
+		"image": "tiktok.png",
+		"title": "Key Votes: TikTok Forced Sale Act",
+		"caption": "In 2024, Congress voted to force ByteDance to sell TikTok or face a ban, citing national security concerns about Chinese ownership of an app used by 170 million Americans.",
+		"link": "/rollcall/RH1180804",
+		"mask": "light",
+		"weight": 2
+	},
+	{
+		"image": "zelensky_congress.png",
+		"title": "Key Votes: Ukraine Security Supplemental Appropriations Act",
+		"caption": "After months of deadlock, the House passed a $95 billion foreign aid package for Ukraine, Israel, and Taiwan in April 2024, with Speaker Johnson defying his own right flank to bring it to the floor.",
+		"link": "/rollcall/RH1180869",
+		"mask": "light",
+		"weight": 2
+	},
+	{
+		"image": "biden_social_security.png",
+		"title": "Key Votes: Social Security Fairness Act",
+		"caption": "In November 2024, the House passed the Social Security Fairness Act 327-75, eliminating provisions that had reduced benefits for roughly 3 million teachers, firefighters, and police officers.",
+		"link": "/rollcall/RH1181174",
+		"mask": "medium",
+		"weight": 2
+	},
+	{
+		"image": "mike_johnson_speaker.png",
+		"title": "Key Votes: Mike Johnson Re-elected Speaker",
+		"caption": "Mike Johnson was re-elected Speaker on January 3, 2025, by a narrow 218-215 margin, kicking off the 119th Congress with Republicans holding the slimmest of majorities.",
+		"link": "/rollcall/RH1190001",
+		"mask": "medium",
+		"weight": 4
+	},
+	{
+		"image": "pete_hegseth.png",
+		"title": "Key Votes: Pete Hegseth Confirmed as Defense Secretary",
+		"caption": "Pete Hegseth was confirmed as Secretary of Defense on January 24, 2025, on a 50-50 tie with Vice President JD Vance casting the tie-breaking vote — the first such tie-break for a cabinet confirmation since Betsy DeVos in 2017.",
+		"link": "/rollcall/RS1190015",
+		"mask": "medium",
+		"weight": 2
+	},
+	{
 		"image": "debt.png",
 		"title": "Key Votes: Fiscal Responsibilty Act of 2023",
 		"caption": "President Joe Biden and House Speaker Kevin McCarthy make a historic compromise to prevent a default on the national debt. ",
